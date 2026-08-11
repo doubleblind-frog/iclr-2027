@@ -1,0 +1,251 @@
+id,domain_1,domain_2,gold_cosine
+001,car,Pollution,0.3909
+002,Drunk driving,Car accidents,0.6685
+003,Alcohol,Fun,0.3551
+004,Air conditioning,Environments,0.2861
+005,Juice,Freshness,0.4281
+006,Fast food,Adventure,0.3366
+007,Nutrition,Sports,0.3153
+008,Pasta,Authentic Italian,0.4807
+009,Nissan Juke,Batmobil,0.2598
+010,Music,Punch,0.2645
+011,Vaccine resistance,Bridge crossing,0.0355
+012,Cadburry chocolate,Fresh Milk,0.2703
+013,Running,Calory crusher,0.2017
+014,Brämhults,Carrot,0.3134
+015,Genetically modified food,Predators,0.0762
+016,Time,Highway,0.1413
+017,Taking risks,Shark-ridden waters,0.2280
+018,Pencils,Christmas,0.2657
+019,Smoking addiction,Maze,0.1929
+020,Cigarettes,Money,0.2972
+021,Driving safety,Lion tamer,0.1090
+022,Right path,Highlighter,0.0900
+023,car,City,0.4114
+024,Wallet,Travel,0.3116
+025,Deadline,Trap,0.2454
+026,Coffee,Lightswitch,0.1911
+027,Toothpaste,Spotlight,0.1766
+028,Jaywalking,Death,0.3011
+029,Storing vegetables,Corpse,0.1098
+030,Pharmaceutical industry,Money machine,0.1595
+031,Healthcare,Coin machine,0.0535
+032,Donuts,Loch Ness monster,0.2100
+033,Donuts,Arrest your hunger,0.2198
+034,Eating chips,Flavour adventure,0.2994
+035,Dove cream,Flower,0.3095
+036,Drunk driving,Car crash,0.5787
+037,Heaphones,Pushing music,0.2410
+038,Head without helmet,Cracked egg,0.1875
+039,Digital entertainment,Funeral,0.1964
+040,Social media,False oasis,0.0914
+041,Online validation,Kibble,0.0497
+042,Marine pollution,Ash tray,0.1738
+043,Aspirin pill,Football helmet,0.1537
+044,Coca cola,Fuel,0.3495
+045,Sweet tooth,Predator,0.3785
+046,Clear vision,Art to reality,0.2612
+047,Pencils,Colours of nature,0.2768
+048,Hair gel,Lizard's feet,0.1840
+049,Ketchup,Fresh tomatoes,0.4254
+050,SUV trunk,Dimensional fold,0.1668
+051,Ice melting,Missile,0.1352
+052,Polar bear,Fracturing iceberg,0.2870
+053,Beer,Good idea,0.1231
+054,Pillow,Sleep supplements,0.3551
+055,Fear,Monsters,0.4350
+056,Iron,Dunes in the desert,0.0988
+057,Vehicle,Horse,0.4493
+058,Ketchup,Bomb,0.3447
+059,Ketchup,Flame,0.2384
+060,Lego bricks,Planes,0.3525
+061,Condom,Life buoy,0.2734
+062,Smile,Lightbulbs,0.2036
+063,Education,Wood factory,0.2179
+064,Lollipop,Apple,0.4812
+065,Healthy diet,Preventative medicine,0.1732
+066,Refusing organ donation,Trash,0.1679
+067,Power drill,Nelson Mandela,0.1404
+068,Mayonnaise,Helium balloons,0.3960
+069,Coffee,Fuel,0.3877
+070,Fries,Cigarettes,0.4177
+071,Coffee beans,Heavy eyelids,0.1579
+072,Earth,Kitchen prep station,0.0893
+073,Harvester,Crop,0.4798
+074,Milo coffee,Champion,0.1979
+075,Life,Wave to be surfed,0.1384
+076,Vodka,Nature,0.2033
+077,Coffee,Battery,0.2163
+078,Water,Mountains,0.3895
+079,Nivea cream,Cactus,0.2596
+080,Human skin in the sun,Bread in a toaster,0.1430
+081,Blocked nose,Brick wall,0.2395
+082,Nyquil,Flock of sleep,0.2836
+083,Bottle cap,Oyster,0.2906
+084,Bread spreads,Palette,0.1539
+085,Parship dating site,Zipper,0.1079
+086,Pepsi,Injection,0.3540
+087,Mugler perfume,Flower,0.3851
+088,Words,Weapon,0.2570
+089,Phone,Mouse trap,0.2153
+090,Pizza delivery,Paper airplane,0.2772
+091,Penguins in the Antarctic,Plastic pollution,0.1075
+092,Coca Cola,Power chord,0.1518
+093,Holy cross,Bug spray,0.1376
+094,Umbrella,Books and smartphones,0.1942
+095,Red bull,Battery,0.3456
+096,Automotive safety,Valuable gem,0.0208
+097,ahesive tape,airplane,0.2397
+098,Work boot,Bulldozer,0.1373
+099,High heel shoe,Snake,0.2081
+100,Social media addiction,Hamster wheel,0.0950
+101,Social media feed,Toilet paper,0.1072
+102,Tongue,Old sock,0.1843
+103,Bug spray,Spiderman,0.2063
+104,Sun care,Oasis of shade,0.4133
+105,Tabasco sauce,Fire extinguisher,0.2769
+106,Tampax tampons,Dams,0.1772
+107,Gambling,Dental health,0.1575
+108,Tic tacs,Strawberries,0.2756
+109,Unauthorised car service,Predatory dinosaur,0.0662
+110,Honda car,Train on rails,0.1682
+111,Ocean pollution,Food on the dinner table,0.1309
+112,Pencils,Dachshund,0.2109
+113,Uterus,Listening,0.2169
+114,Vaseline,Cracks in earth,0.0585
+115,Vaseline,Art restoration,0.1558
+116,Smokestacks,Proteins on viruses,-0.0361
+117,Brain,Walnut,0.2196
+118,Pink eye,Horror movie,0.2207
+119,Presciption drug,Mortality,0.1095
+120,Animal hunters,Human prey,0.6066
+121,Colour palette,Toast bread,0.0631
+122,Not social distancing,Explosion,0.1468
+123,Killing a tree,Killing a bird,0.5472
+124,Wildlife,Symphony orchestra,0.2496
+125,Ship sails,Butterflies,0.2344
+126,Tango,Flavour,0.2138
+127,Strong love,Solid foundation,0.3520
+128,Drinking Water,Time bomb,0.0585
+129,Drinking Away,Riches,0.1963
+130,Global Warming,Time bomb,0.2076
+131,Party,Flavour,0.1691
+132,Love,Donut,0.3457
+133,Burger,Flame,0.1710
+134,Car,Wind,0.2935
+135,Sky,Limit,0.1453
+136,Strawberries,Mountains,0.3482
+137,Words,Fire,0.3287
+138,Words,Weapons,0.3261
+139,Heart,Calling,0.1317
+140,Chocolate,Silk,0.3929
+141,Love,Bones,0.2458
+142,Roots,Crisis,0.2067
+143,Wave,Anger,0.2024
+144,Pen,Knife,0.3893
+145,Sea,Loneliness,0.2794
+146,Fruits,Ignorance,0.2384
+147,Faculty meeting,Nightmare,0.1010
+148,Man,Whale in swimming pool,0.0778
+149,Sky on fire,Pain pouring down,0.1669
+150,Jaws,Death,0.2421
+151,Seed,Life on our planet,0.1680
+152,Anger,Explosion,0.3866
+153,Love,Summer day,0.2936
+154,Crowd,Roaring river,0.1940
+155,Heartbreak,Stampede of buffalo,0.2240
+156,Woman's heart,Harp of gold,0.3524
+157,Absence,Photography dark room,0.1508
+158,Alcohol,Friend,0.2894
+159,America,Gun,0.3315
+160,Educated woman,Danger,0.0933
+161,Unexpected loss,Blow to the face,0.1707
+162,Anger,Demon,0.2991
+163,Anxiety,Freight train that runs over a deer,0.0375
+164,Autumn,Depression,0.2538
+165,Death,Hard pill to swallow,0.1794
+166,Getting up in the morning,Battle,0.1575
+167,Earth,Prison,0.2429
+168,Human,Garden,0.2386
+169,Sin,Wage you must pa,0.0783
+170,Failure,Treacherous pit,0.2379
+171,Faith,Dangerous road,0.1601
+172,Fear,Lock,0.2761
+173,Frienship,Sheltering tree,0.0651
+174,Hate,Blizzard,0.1965
+175,Hair,Bird's nest,0.1447
+176,Hair,Sea,0.2614
+177,Hair,Curling mist,0.3626
+178,Love,Hurricane,0.2298
+179,Mouth,Poison flower,0.2022
+180,Smile,Warm fire,0.2019
+181,Soul,Quiet sea,0.2501
+182,Voice,Rose,0.2662
+183,Body,Wooden puzzle,0.1542
+184,Life,Marathon,0.3230
+185,Love,Conquest,0.2594
+186,Love,Dead end,0.1714
+187,Love,Double-edged sword,0.1626
+188,Love,Sickness,0.3795
+189,Brain,Box of crayons,0.2417
+190,Heart,Blank canvas,0.2083
+191,Heart,Dancer,0.2127
+192,Heart,Garden in autumn,0.0401
+193,Jaws,Rollercoaster,0.2036
+194,Mind,Desert,0.2480
+195,Mouth,Music box,0.1590
+196,Path,River with many tributaries,0.2871
+197,Silence,Weapons,0.3009
+198,Soul,Bird with broken wings,0.1804
+199,Night,Crawling toddler,0.1502
+200,Love,Board game,0.2400
+201,Blazing sun,Ballroom dancer,0.2042
+202,Earth,Sunday roast,0.1541
+203,Earth,Mother,0.2534
+204,Mind,Glass fortress,0.2273
+205,Moon,Smile,0.2732
+206,Ocean,Grave,0.3588
+207,Planet,Sinking ship,0.1567
+208,Snow,Soft bed,0.1894
+209,Sun,Wounded deer,0.0835
+210,World,Paintbrush,0.1934
+211,World,Stage,0.1703
+212,Thought,Vulture,0.2102
+213,Time,Bus,0.2040
+214,Time,Thief,0.1927
+215,True love,Plum blossoms in bloom,0.2064
+216,Winter,Bony crone,0.1858
+217,Work,Living hell,0.2504
+218,Face,Canvas,0.2226
+219,Mind,Powerful tool,0.2518
+220,Friend,Treasure,0.2284
+221,Cheetah,Race winner,0.2293
+222,Diamound,Rough,0.1730
+223,Anger,Wildfire,0.2402
+224,Fear,Prison,0.2604
+225,India's culture,Salad bowl,0.1769
+226,Laughter,Medicine,0.4692
+227,Life,Maze,0.2290
+228,Classroom,Zoo,0.2556
+229,Mind,Computer,0.2005
+230,Professor,Guiding light,0.1507
+231,Stormy ocean,Raging bull,0.2881
+232,airport,Pools of money,0.1482
+233,Soul and envy,Favourite meal,0.2746
+234,Society,Sleep,0.2259
+235,Computer,Coma,0.2086
+236,French bourgeoisie,Blind alley,0.2406
+237,Future,Cloudy sky,0.2502
+238,Company losing money,Walking out the door,0.0919
+239,Mind,Lighthouse beacon,0.1643
+240,Full bag,Unloading memories,0.2108
+241,Hear,Gold,0.1875
+242,Drowning in the ocean,Work,0.1734
+243,Lover,Compass,0.2240
+244,Best pupil at school,Shining star,0.2195
+245,Lover,Sun in the sky,0.1786
+246,Gym,Measles,0.1557
+247,Still sitting,Carved image,0.1622
+248,Not moving,Fly caught in a spiderweb,0.1457
+249,Failed love,Ocean and desert,0.0845
+250,Wrinkly forehead,Old map,0.0705

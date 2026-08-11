@@ -1,0 +1,244 @@
+id,domain_1,domain_2,conc_1,source_1,conc_2,source_2,min
+001,car,Pollution,4.890,direct,3.750,direct,3.750
+002,Drunk driving,Car accidents,3.480,decomposed,4.890,decomposed,3.480
+003,Alcohol,Fun,4.760,direct,1.970,direct,1.970
+004,Air conditioning,environment,4.210,direct,3.740,direct,3.740
+005,Juice,Freshness,4.890,direct,2.120,direct,2.120
+006,Fast food,Adventure,4.390,direct,2.590,direct,2.590
+007,Nutrition,Sports,2.820,direct,3.790,direct,2.820
+008,Pasta,Authentic Italian,4.860,direct,2.310,decomposed,2.310
+010,Music,Punch,4.310,direct,4.390,direct,4.310
+011,Vaccine resistance,Bridge crossing,2.680,decomposed,3.420,decomposed,2.680
+012,Cadburry chocolate,Fresh Milk,4.720,decomposed,1.970,decomposed,1.970
+013,Running,Calory crusher,4.270,direct,4.000,decomposed,4.000
+015,Genetically modified food,predator,2.380,decomposed,3.640,direct,2.380
+016,Time,Highway,3.070,direct,4.720,direct,3.070
+017,Taking risks,Shark-ridden waters,2.790,decomposed,2.520,decomposed,2.520
+018,pencil,Christmas,4.880,direct,3.410,direct,3.410
+019,Smoking addiction,Maze,2.850,decomposed,4.450,direct,2.850
+020,Cigarette,Money,4.880,direct,4.540,direct,4.540
+021,Driving safety,Lion tamer,2.370,decomposed,2.640,decomposed,2.370
+022,Right path,Highlighter,3.470,decomposed,4.770,direct,3.470
+023,car,City,4.890,direct,4.790,direct,4.790
+024,Wallet,Travel,4.810,direct,3.670,direct,3.670
+025,Deadline,Trap,2.660,direct,4.300,direct,2.660
+026,Coffee,Lightswitch,4.810,direct,4.680,direct,4.680
+027,Toothpaste,Spotlight,4.970,direct,4.630,direct,4.630
+029,Storing vegetable,Corpse,4.890,decomposed,4.890,direct,4.890
+030,Pharmaceutical industry,Money machine,2.890,decomposed,4.250,decomposed,2.890
+031,Healthcare,Coin machine,3.240,direct,4.250,decomposed,3.240
+032,donut,Loch Ness monster,4.930,direct,3.720,decomposed,3.720
+033,donut,Arrest your hunger,4.930,direct,2.370,decomposed,2.370
+034,Eating chips,flavor adventure,4.140,decomposed,2.590,decomposed,2.590
+035,Dove cream,Flower,4.830,decomposed,5.000,direct,4.830
+036,Drunk driving,Car crash,3.480,decomposed,3.790,decomposed,3.480
+037,headphones,Pushing music,4.790,direct,3.730,decomposed,3.730
+038,Head without helmet,Cracked egg,2.150,decomposed,3.930,decomposed,2.150
+039,Digital entertainment,Funeral,2.920,decomposed,3.830,direct,2.920
+040,Social media,False oasis,2.270,decomposed,2.360,decomposed,2.270
+041,Online validation,Kibble,2.240,decomposed,4.290,direct,2.240
+042,Marine pollution,Ash tray,3.750,decomposed,4.740,decomposed,3.750
+043,Aspirin pill,Football helmet,4.720,decomposed,5.000,direct,4.720
+044,Coca cola,Fuel,4.790,decomposed,4.300,direct,4.300
+045,Sweet tooth,Predator,4.000,decomposed,3.640,direct,3.640
+046,Clear vision,Art to reality,3.390,decomposed,1.720,decomposed,1.720
+047,pencil,Colours of nature,4.880,direct,2.920,decomposed,2.920
+048,Hair gel,lizard foot,4.870,direct,4.680,decomposed,4.680
+049,Ketchup,Fresh tomatoes,5.000,direct,1.970,decomposed,1.970
+050,SUV trunk,Dimensional fold,4.710,decomposed,2.120,decomposed,2.120
+051,Ice melting,Missile,3.830,decomposed,4.830,direct,3.830
+052,Polar bear,Fracturing iceberg,5.000,direct,4.960,decomposed,4.960
+053,Beer,Good idea,4.880,direct,1.610,decomposed,1.610
+054,Pillow,Sleep supplements,5.000,direct,4.440,decomposed,4.440
+055,Fear,monster,2.570,direct,3.720,direct,2.570
+056,Iron,Dunes in the desert,4.590,direct,4.860,decomposed,4.590
+057,Vehicle,Horse,4.640,direct,5.000,direct,4.640
+058,Ketchup,Bomb,5.000,direct,4.840,direct,4.840
+059,Ketchup,Flame,5.000,direct,4.670,direct,4.670
+060,Lego bricks,airplane,4.730,decomposed,4.960,direct,4.730
+061,Condom,Life buoy,4.870,direct,2.690,decomposed,2.690
+062,Smile,lightbulb,4.500,direct,5.000,direct,4.500
+063,Education,Wood factory,2.930,direct,4.760,decomposed,2.930
+064,Lollipop,Apple,4.960,direct,5.000,direct,4.960
+065,Healthy diet,Preventative medicine,3.210,decomposed,1.930,decomposed,1.930
+066,Refusing organ donation,Trash,2.270,decomposed,4.700,direct,2.270
+068,Mayonnaise,Helium balloons,4.900,direct,3.960,decomposed,3.960
+069,Coffee,Fuel,4.810,direct,4.300,direct,4.300
+070,fry,Cigarette,4.370,direct,4.880,direct,4.370
+071,Coffee beans,Heavy eyelids,4.810,decomposed,3.370,decomposed,3.370
+072,Earth,Kitchen prep station,4.800,direct,2.360,decomposed,2.360
+073,Harvester,Crop,4.210,direct,4.240,direct,4.210
+074,Milo coffee,Champion,4.810,decomposed,3.820,direct,3.820
+075,Life,Wave to be surfed,2.690,direct,1.850,decomposed,1.850
+076,Vodka,Nature,4.970,direct,2.920,direct,2.920
+077,Coffee,Battery,4.810,direct,4.670,direct,4.670
+078,Water,mountain,5.000,direct,4.960,direct,4.960
+079,Nivea cream,Cactus,4.830,decomposed,5.000,direct,4.830
+080,Human skin in the sun,Bread in a toaster,4.790,decomposed,4.900,decomposed,4.790
+081,Blocked nose,Brick wall,3.450,decomposed,4.830,decomposed,3.450
+083,Bottle cap,Oyster,4.590,decomposed,4.850,direct,4.590
+084,Bread spreads,Palette,4.920,decomposed,4.300,direct,4.300
+085,Parship dating site,Zipper,2.320,decomposed,4.830,direct,2.320
+087,Mugler perfume,Flower,4.660,decomposed,5.000,direct,4.660
+088,word,Weapon,3.560,direct,4.760,direct,3.560
+089,Phone,Mouse trap,4.860,direct,4.300,decomposed,4.300
+090,Pizza delivery,Paper airplane,3.690,decomposed,4.930,decomposed,3.690
+091,Penguins in the Antarctic,Plastic pollution,4.210,decomposed,3.750,decomposed,3.750
+092,Coca Cola,Power chord,4.790,decomposed,2.040,decomposed,2.040
+093,Holy cross,Bug spray,1.670,decomposed,4.500,decomposed,1.670
+094,Umbrella,Book and Smartphone,5.000,direct,4.570,decomposed,4.570
+095,Red bull,Battery,4.240,decomposed,4.670,direct,4.240
+096,Automotive safety,Valuable gem,2.370,decomposed,2.220,decomposed,2.220
+097,ahesive tape,airplane,4.900,decomposed,4.960,direct,4.900
+098,Work boot,Bulldozer,3.480,decomposed,4.900,direct,3.480
+099,High heel shoe,Snake,3.460,decomposed,5.000,direct,3.460
+100,Social media addiction,Hamster wheel,2.270,decomposed,4.860,decomposed,2.270
+101,Social media feed,Toilet paper,2.270,decomposed,5.000,direct,2.270
+102,Tongue,Old sock,4.930,direct,2.720,decomposed,2.720
+103,Bug spray,Spiderman,4.500,decomposed,4.280,direct,4.280
+104,Sun care,Oasis of shade,2.330,decomposed,3.380,decomposed,2.330
+105,Tabasco sauce,Fire extinguisher,4.590,decomposed,4.680,decomposed,4.590
+106,Tampax tampon,Dam,4.860,decomposed,4.880,direct,4.860
+107,Gambling,Dental health,3.540,direct,2.280,decomposed,2.280
+108,Tic tacs,strawberry,3.770,decomposed,5.000,direct,3.770
+109,Unauthorised car service,Predatory dinosaur,2.210,decomposed,2.580,decomposed,2.210
+110,Honda car,Train on rails,4.890,decomposed,4.790,decomposed,4.790
+111,Ocean pollution,Food on the dinner table,3.750,decomposed,4.500,decomposed,3.750
+112,pencil,Dachshund,4.880,direct,4.670,direct,4.670
+113,Uterus,Listening,4.710,direct,2.480,direct,2.480
+114,Vaseline,Cracks in earth,4.900,direct,4.800,decomposed,4.800
+115,Vaseline,Art restoration,4.900,direct,2.650,decomposed,2.650
+116,smokestack,protein on virus,4.730,direct,3.480,decomposed,3.480
+117,Brain,Walnut,4.690,direct,4.970,direct,4.690
+118,Pink eye,Horror movie,3.930,decomposed,2.500,decomposed,2.500
+119,Presciption drug,Mortality,4.480,decomposed,1.460,direct,1.460
+120,Animal hunters,Human prey,4.610,decomposed,3.610,decomposed,3.610
+121,Colour palette,Toast bread,4.300,decomposed,4.920,decomposed,4.300
+122,Not social distancing,Explosion,2.080,decomposed,4.520,direct,2.080
+123,Killing a tree,Killing a bird,3.430,decomposed,3.430,decomposed,3.430
+124,Wildlife,Symphony orchestra,4.260,direct,4.680,direct,4.260
+125,Ship sails,Butterfly,4.870,decomposed,4.930,direct,4.870
+126,Tango,flavor,4.100,direct,3.550,direct,3.550
+127,Strong love,Solid foundation,2.070,decomposed,3.740,decomposed,2.070
+128,Drinking Water,Time bomb,4.670,direct,3.070,decomposed,3.070
+129,Drinking Away,Riches,2.230,decomposed,3.520,direct,2.230
+130,Global Warming,Time bomb,3.100,direct,3.070,decomposed,3.070
+131,Party,flavor,3.890,direct,3.550,direct,3.550
+132,Love,Donut,2.070,direct,4.930,direct,2.070
+133,Burger,Flame,4.930,direct,4.670,direct,4.670
+134,Car,Wind,4.890,direct,3.930,direct,3.930
+135,Sky,Limit,4.450,direct,2.280,direct,2.280
+136,strawberry,mountain,5.000,direct,4.960,direct,4.960
+137,word,Fire,3.560,direct,4.680,direct,3.560
+138,word,weapon,3.560,direct,4.760,direct,3.560
+139,Heart,Calling,4.520,direct,2.850,direct,2.850
+140,Chocolate,Silk,4.720,direct,4.700,direct,4.700
+141,Love,Bone,2.070,direct,4.900,direct,2.070
+142,root,Crisis,4.340,direct,2.330,direct,2.330
+143,Wave,Anger,4.550,direct,2.410,direct,2.410
+144,Pen,Knife,4.920,direct,4.900,direct,4.900
+145,Sea,Loneliness,4.790,direct,2.370,direct,2.370
+146,fruit,Ignorance,4.810,direct,1.600,direct,1.600
+147,Faculty meeting,Nightmare,3.310,decomposed,2.960,direct,2.960
+148,Man,Whale in swimming pool,4.790,direct,4.440,decomposed,4.440
+149,Sky on fire,Pain pouring down,4.450,decomposed,3.500,decomposed,3.500
+150,Jaws,Death,4.460,direct,3.730,direct,3.730
+151,Seed,Life on our planet,4.710,direct,1.970,decomposed,1.970
+152,Anger,Explosion,2.410,direct,4.520,direct,2.410
+153,Love,Summer day,2.070,direct,3.640,decomposed,2.070
+154,Crowd,Roaring river,4.520,direct,3.500,decomposed,3.500
+155,Heartbreak,Stampede of buffalo,2.150,direct,3.890,decomposed,2.150
+156,Woman's heart,Harp of gold,4.520,decomposed,4.810,decomposed,4.520
+157,Absence,Photography dark room,2.310,direct,4.100,decomposed,2.310
+158,Alcohol,Friend,4.760,direct,3.070,direct,3.070
+160,Educated woman,Danger,2.190,decomposed,2.680,direct,2.190
+161,Unexpected loss,Blow to the face,2.190,decomposed,3.740,decomposed,2.190
+162,Anger,Demon,2.410,direct,3.320,direct,2.410
+163,Anxiety,Freight train that runs over a deer,2.210,direct,1.540,decomposed,1.540
+164,Autumn,Depression,3.270,direct,2.390,direct,2.390
+165,Death,Hard pill to swallow,3.730,direct,3.760,decomposed,3.730
+166,Getting up in the morning,Battle,2.070,decomposed,4.000,direct,2.070
+167,Earth,Prison,4.800,direct,4.680,direct,4.680
+168,Human,Garden,4.930,direct,4.730,direct,4.730
+169,Sin,Wage you must pa,1.850,direct,2.130,decomposed,1.850
+170,Failure,Treacherous pit,2.080,direct,2.210,decomposed,2.080
+171,Faith,Dangerous road,1.630,direct,2.130,decomposed,1.630
+172,Fear,Lock,2.570,direct,4.650,direct,2.570
+173,friendship,Sheltering tree,2.390,direct,5.000,decomposed,2.390
+174,Hate,Blizzard,1.970,direct,4.680,direct,1.970
+175,Hair,Bird's nest,4.970,direct,4.860,decomposed,4.860
+176,Hair,Sea,4.970,direct,4.790,direct,4.790
+177,Hair,Curling mist,4.970,direct,4.040,decomposed,4.040
+178,Love,Hurricane,2.070,direct,4.590,direct,2.070
+179,Mouth,Poison flower,4.740,direct,4.270,decomposed,4.270
+180,Smile,Warm fire,4.500,direct,3.560,decomposed,3.560
+181,Soul,Quiet sea,1.860,direct,2.760,decomposed,1.860
+182,Voice,Rose,4.130,direct,4.900,direct,4.130
+183,Body,Wooden puzzle,4.790,direct,4.610,decomposed,4.610
+184,Life,Marathon,2.690,direct,3.960,direct,2.690
+185,Love,Conquest,2.070,direct,2.540,direct,2.070
+186,Love,Dead end,2.070,direct,4.200,direct,2.070
+187,Love,Double-edged sword,2.070,direct,2.970,decomposed,2.070
+188,Love,Sickness,2.070,direct,3.450,direct,2.070
+189,Brain,Box of crayons,4.690,direct,4.900,decomposed,4.690
+190,Heart,Blank canvas,4.520,direct,3.120,decomposed,3.120
+191,Heart,Dancer,4.520,direct,4.750,direct,4.520
+192,Heart,Garden in autumn,4.520,direct,3.270,decomposed,3.270
+193,Jaws,Rollercoaster,4.460,direct,4.810,direct,4.460
+194,Mind,Desert,2.500,direct,4.860,direct,2.500
+195,Mouth,Music box,4.740,direct,4.890,direct,4.740
+196,Path,River with many tributaries,4.410,direct,2.370,decomposed,2.370
+197,Silence,weapon,3.330,direct,4.760,direct,3.330
+198,Soul,Bird with broken wings,1.860,direct,4.110,decomposed,1.860
+199,Night,Crawling toddler,4.520,direct,4.290,decomposed,4.290
+200,Love,Board game,2.070,direct,4.610,direct,2.070
+201,Blazing sun,Ballroom dancer,3.640,decomposed,4.700,decomposed,3.640
+202,Earth,Sunday roast,4.800,direct,3.320,decomposed,3.320
+203,Earth,Mother,4.800,direct,4.600,direct,4.600
+204,Mind,Glass fortress,2.500,direct,4.800,decomposed,2.500
+205,Moon,Smile,4.900,direct,4.500,direct,4.500
+206,Ocean,Grave,4.860,direct,4.560,direct,4.560
+207,Planet,Sinking ship,4.580,direct,3.000,decomposed,3.000
+208,Snow,Soft bed,4.850,direct,3.880,decomposed,3.880
+209,Sun,Wounded deer,4.830,direct,3.640,decomposed,3.640
+210,World,Paintbrush,4.360,direct,4.790,direct,4.360
+211,World,Stage,4.360,direct,4.640,direct,4.360
+212,Thought,Vulture,1.970,direct,4.730,direct,1.970
+213,Time,Bus,3.070,direct,4.900,direct,3.070
+214,Time,Thief,3.070,direct,4.370,direct,3.070
+215,True love,Plum blossoms in bloom,1.700,decomposed,4.000,decomposed,1.700
+216,Winter,Bony crone,3.840,direct,3.670,decomposed,3.670
+217,Work,Living hell,3.480,direct,2.410,decomposed,2.410
+218,Face,Canvas,4.870,direct,4.780,direct,4.780
+219,Mind,Powerful tool,2.500,direct,2.170,decomposed,2.170
+220,Friend,Treasure,3.070,direct,4.320,direct,3.070
+221,Cheetah,Race winner,4.700,direct,3.210,decomposed,3.210
+222,diamond,Rough,4.890,direct,3.830,direct,3.830
+223,Anger,Wildfire,2.410,direct,4.590,direct,2.410
+224,Fear,Prison,2.570,direct,4.680,direct,2.570
+225,India's culture,Salad bowl,2.040,decomposed,4.830,direct,2.040
+226,Laughter,Medicine,4.220,direct,4.790,direct,4.220
+227,Life,Maze,2.690,direct,4.450,direct,2.690
+228,Classroom,Zoo,4.760,direct,4.810,direct,4.760
+229,Mind,Computer,2.500,direct,4.930,direct,2.500
+230,Professor,Guiding light,4.860,direct,2.540,decomposed,2.540
+231,Stormy ocean,Raging bull,3.960,decomposed,3.070,decomposed,3.070
+232,airport,Pools of money,4.870,direct,4.540,decomposed,4.540
+233,Soul and envy,Favourite meal,1.690,decomposed,4.620,decomposed,1.690
+234,Society,Sleep,2.540,direct,4.440,direct,2.540
+235,Computer,Coma,4.930,direct,3.690,direct,3.690
+236,French bourgeoisie,Blind alley,2.420,decomposed,4.030,decomposed,2.420
+237,Future,Cloudy sky,1.860,direct,4.000,decomposed,1.860
+238,Company losing money,Walking out the door,2.280,decomposed,2.730,decomposed,2.280
+239,Mind,Lighthouse beacon,2.500,direct,4.380,decomposed,2.500
+240,Full bag,Unloading memory,3.590,decomposed,2.380,decomposed,2.380
+241,Hear,Gold,3.660,direct,4.810,direct,3.660
+242,Drowning in the ocean,Work,4.860,decomposed,3.480,direct,3.480
+243,Lover,Compass,3.680,direct,4.660,direct,3.680
+244,Best pupil at school,Shining star,1.600,decomposed,3.390,decomposed,1.600
+245,Lover,Sun in the sky,3.680,direct,4.450,decomposed,3.680
+246,Gym,Measles,4.830,direct,4.690,direct,4.690
+247,Still sitting,Carved image,3.460,decomposed,3.850,decomposed,3.460
+248,Not moving,Fly caught in a spiderweb,2.080,decomposed,3.270,decomposed,2.080
+249,Failed love,Ocean and desert,2.070,decomposed,4.860,decomposed,2.070
+250,Wrinkly forehead,Old map,3.520,decomposed,2.720,decomposed,2.720

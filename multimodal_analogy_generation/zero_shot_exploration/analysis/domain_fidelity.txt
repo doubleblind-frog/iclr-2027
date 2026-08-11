@@ -1,0 +1,34 @@
+DOMAIN FIDELITY OVERVIEW
+============================================================
+Threshold: 0.45
+Embedding Model: all-mpnet-base-v2
+
+RANKINGS
+============================================================
+
+Both Domains Match
+1. Human              25.6%
+2. GPT-Image Zero      9.4%
+3. GPT-Image CoT       6.5%
+4. Flux-Klein Zero     5.9%
+5. Stable-Core CoT     4.8%
+6. Stable-Core Zero    4.4%
+7. Flux-Klein CoT      4.2%
+
+Either Domain Match
+1. Human              72.0%
+2. GPT-Image Zero     59.2%
+3. GPT-Image CoT      55.7%
+4. Flux-Klein Zero    54.2%
+5. Flux-Klein CoT     52.9%
+6. Stable-Core Zero   52.0%
+7. Stable-Core CoT    44.0%
+
+Mean Cosine Similarity (Best Match)
+1. Human              0.634
+2. GPT-Image Zero     0.532
+3. GPT-Image CoT      0.518
+4. Flux-Klein Zero    0.496
+5. Flux-Klein CoT     0.485
+6. Stable-Core Zero   0.483
+7. Stable-Core CoT    0.475

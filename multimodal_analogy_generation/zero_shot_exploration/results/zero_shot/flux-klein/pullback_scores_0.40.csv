@@ -1,0 +1,239 @@
+id,pullback_score,num_matched,coverage,chain_length,target_domain,source_domain
+001,1.911,2,0.333,1,environmental destruction,industrial transport
+003,1.307,1,0.167,1,purity,water
+004,0.0,0,0.0,0,balance between extremes,air conditioning unit
+005,0.0,0,0.0,0,apple juice,none
+006,4.299,4,0.667,2,new beginning,fantasy adventure
+007,3.318,3,0.429,3,cooking,athletic performance
+008,2.399,3,0.429,1,unraveling complexity,eating pasta
+009,0.0,0,0.0,0,urban navigation,none
+010,1.441,2,0.333,1,music,explosion
+011,3.007,3,0.5,1,risk-taking,bridge crossing
+012,0.0,0,0.0,0,dairy and chocolate mixing,none
+013,4.517,4,0.667,4,overcoming adversity,fire
+014,0.0,0,0.0,0,carrot plant growth,none
+015,3.824,4,0.667,2,uncontrolled appetite,dragon
+016,0.0,0,0.0,0,highway travel,none
+017,3.105,3,0.429,1,crisis and desperation,sinking ship in storm
+018,1.804,2,0.286,1,creativity,explosion or burst of energy
+021,10.0,7,1.0,6,taming of wild forces,lion taming
+022,1.784,2,0.333,1,knowledge,illuminated book
+023,2.182,3,0.5,1,power and control,keys unlocking access
+024,2.067,3,0.5,1,wanderlust,currency
+025,2.749,3,0.429,1,workplace stress,grinding machine
+026,1.853,2,0.333,1,hope,candle
+027,1.832,2,0.333,1,inner passion,light and fire
+028,2.271,3,0.429,1,struggle against adversity,running through obstacles
+029,0.0,0,0.0,0,mortality and decay,none
+031,2.186,3,0.5,1,scientific knowledge,brain
+032,3.652,3,0.429,3,temptation,donut
+033,0.0,0,0.0,0,baking,none
+034,3.726,4,0.571,2,adversity,towering rock formations
+035,0.0,0,0.0,0,purity,none
+036,3.071,3,0.429,2,overwhelm,smoke
+037,2.774,2,0.333,2,sound,flowing light
+038,1.209,1,0.167,1,psychological breakdown,cracked glass
+039,6.494,6,1.0,3,collaborative investigation,map reading
+040,3.048,3,0.5,2,digital refuge,oasis
+041,3.226,3,0.5,2,digital addiction,conditioned animal behavior
+042,1.992,2,0.333,1,environmental pollution,cigarette waste accumulation
+043,0.0,0,0.0,0,none,none
+044,1.755,2,0.286,1,cognition,electrical energy
+045,1.338,1,0.167,1,evil,rainbow landscape
+046,3.955,5,0.714,2,creativity,light refraction
+047,1.27,1,0.143,1,creativity,seeds or plant growth
+048,0.0,0,0.0,0,biological complexity,none
+049,0.0,0,0.0,0,food preservation,none
+050,0.0,0,0.0,0,capacity,none
+051,3.01,3,0.429,2,internal conflict,volcanic iceberg
+052,2.018,2,0.4,2,raw power,electricity
+053,2.797,3,0.429,2,intellectual work,beer
+054,1.002,1,0.167,1,peace,light and cleanliness
+055,1.805,2,0.333,1,inner struggle with fear,demonic shadows
+056,1.864,2,0.333,1,human insignificance,miniature vehicle in desert
+057,0.967,1,0.167,1,human ambition,environmental destruction
+058,1.528,2,0.333,1,spiciness,explosion
+059,1.608,2,0.4,1,spiciness,fire
+060,1.894,2,0.333,1,fragility of systems,lego construction
+061,2.197,3,0.5,1,protection in adversity,protective vessel
+062,4.333,4,0.8,3,inner light,fire
+063,2.923,4,0.571,1,human labor,industrial machinery
+064,1.046,1,0.167,1,temptation versus health,candy and fruit
+065,3.296,4,0.667,1,human health,nutrition
+066,1.751,2,0.333,1,healthcare and human welfare,life suspended over waste
+067,2.665,3,0.5,2,liberation,breaking through barriers
+068,1.109,1,0.2,1,lightness,balloons
+069,1.276,1,0.167,1,mental energy,coffee
+070,1.832,2,0.333,1,temptation and craving,reaching for food
+071,1.744,2,0.333,1,energy,light
+072,1.56,2,0.333,1,control of reality,miniature world
+073,3.435,3,0.5,2,human productivity,agricultural harvest
+074,3.241,3,0.5,2,personal challenge,spicy heat
+075,2.979,3,0.5,2,flow state,wave barrel
+076,1.002,1,0.167,1,environmental pollution,plastic waste in nature
+077,2.6,2,0.286,2,mental stimulation,electrical energy
+078,2.217,3,0.5,1,preservation of nature,bottle
+079,1.007,1,0.167,1,resilience in adversity,cactus
+080,0.0,0,0.0,0,toasting,none
+081,1.057,1,0.167,1,ignorance,physical obstruction
+082,1.489,2,0.333,1,hope and liberation,spoon with cosmic energy
+083,1.985,2,0.333,2,inner beauty,shell containing treasure
+084,2.476,3,0.5,1,creative composition,painting
+085,1.875,3,0.5,1,revelation,zipper
+086,0.0,0,0.0,0,beverage consumption and its stimulating effects,nervous system and electrical energy
+087,3.776,3,0.5,3,fragrance allure,explosion
+088,4.216,4,0.571,3,aggression,radiating weapons
+089,4.894,5,0.714,2,digital deception,fishing
+090,3.184,3,0.5,2,transcendence of desire,flight
+091,2.139,3,0.5,1,environmental crisis,plastic pollution
+092,2.084,2,0.333,2,brand dominance,amplified energy
+093,2.463,2,0.4,2,protection,insect repellent spray
+094,2.688,3,0.429,2,reading,shelter from storm
+095,2.027,2,0.333,2,energy boost,electricity
+096,1.796,2,0.4,1,wealth,diamond
+097,2.977,3,0.429,2,journey,path
+098,0.932,1,0.167,1,perseverance,worn boot
+099,1.876,2,0.286,1,deception,snake
+100,2.053,2,0.286,1,digital addiction,hamster wheel
+101,1.919,2,0.333,1,information overload,tower collapse
+102,0.0,0,0.0,0,camouflage,none
+103,4.497,4,0.667,3,corporate destruction,exploding soda can
+104,0.0,0,0.0,0,oasis,none
+105,1.649,2,0.4,1,spiciness,fire
+106,2.991,3,0.5,2,control of nature,industrial infrastructure
+108,1.275,1,0.2,1,refinement,natural abundance
+109,2.306,3,0.5,1,chaos and threat,prehistoric predator
+110,3.633,4,0.571,2,conflicting ideas,head-on collision
+111,5.189,5,0.714,3,fine dining pretense,dissecting whole fish
+112,2.399,3,0.429,1,creativity,dog
+113,1.045,1,0.167,1,personal danger,warning signals
+114,0.0,0,0.0,0,drought,none
+115,2.216,2,0.333,1,healing,art restoration
+116,1.837,2,0.333,1,environmental destruction,industrial aggression
+117,2.148,2,0.333,1,cognitive aging,brain deterioration
+118,2.298,2,0.333,2,witnessing trauma,inflamed eye
+120,1.616,2,0.4,1,vulnerability to threats,wolves circling prey
+121,0.0,0,0.0,0,cuisine,none
+122,2.581,3,0.5,2,interpersonal conflict,lightning
+123,1.681,2,0.333,1,spiritual transcendence,ancient tree and dove
+124,3.64,4,0.571,2,harmony,music
+125,1.527,2,0.333,1,transformation,sailing
+126,1.872,3,0.5,1,artistic nurturing,hand
+127,2.454,3,0.429,1,romantic partnership,mountain climbing
+128,2.209,2,0.4,2,passage of time,flowing water
+130,1.671,2,0.333,1,internal conflict,volcano
+131,0.0,0,0.0,0,joy,mouth
+132,0.0,0,0.0,0,indulgence,none
+133,1.787,2,0.333,1,food cravings,fire
+134,0.0,0,0.0,0,speed,none
+135,5.08,5,0.833,3,success,mountain climbing
+136,3.526,3,0.5,2,abundance,strawberries
+137,1.225,1,0.167,1,loss of memory,fire consuming paper
+138,1.92,2,0.333,2,internal conflict,combat wounds
+139,2.136,3,0.5,1,hope,light
+140,2.572,3,0.5,2,ripple effect,chocolate ripples
+141,1.654,2,0.333,1,resilience of life,death and growth
+142,1.451,2,0.333,1,entrapment,nature's confinement
+143,2.489,3,0.5,1,inner rage,thunderstorm
+144,1.908,2,0.333,1,emotional struggle,writing
+145,1.232,1,0.167,1,loneliness,solitude in a crowd
+146,1.448,2,0.333,1,despair,dead forest
+147,2.717,3,0.5,2,organizational chaos,falling leaves
+148,1.957,2,0.333,2,wildness in domestic space,hippopotamus in swimming pool
+149,1.511,2,0.333,1,suffering,fire and heat
+150,4.127,4,0.571,2,adversity,canyon
+151,2.954,3,0.5,2,potential and growth,plant germination
+152,2.803,3,0.5,2,rage,explosion
+153,0.0,0,0.0,0,natural beauty,none
+154,2.647,3,0.5,2,collective participation,submersion in foam
+155,1.187,1,0.167,1,chaos,stampede
+157,1.956,2,0.286,1,loneliness,separation by barriers
+158,0.0,0,0.0,0,human connection,none
+159,1.023,1,0.167,1,environmental destruction,weapon
+160,1.817,2,0.333,1,intellectual constraint,physical imprisonment
+161,2.297,3,0.5,1,emotional turmoil,autumn storm
+163,2.679,3,0.5,2,helplessness,deer in headlights
+164,0.977,1,0.167,1,loneliness,autumn forest
+165,1.449,2,0.333,1,heartbreak,broken object
+166,1.888,3,0.429,1,difficulty waking,being buried
+167,3.957,4,0.667,3,despair,prison
+168,2.776,3,0.5,2,human interconnection,root system
+169,4.166,4,0.667,3,justice,scales with wealth
+170,3.414,3,0.5,2,facing adversity,crossing chasm
+171,2.419,3,0.5,1,life journey,mountain road travel
+172,0.0,0,0.0,0,captivity,padlock and chains
+173,1.735,2,0.333,1,romantic love,tree
+174,3.18,3,0.5,2,resilience through adversity,blizzard
+175,3.268,3,0.5,2,mind or thought,overgrowth or wild vegetation
+176,1.585,2,0.333,1,freedom,flowing hair
+177,1.707,2,0.333,1,transcendence,clouds and sky
+178,1.48,2,0.333,1,inner strength,storm
+179,2.221,2,0.333,2,powerful communication,electrical energy
+180,1.476,2,0.4,1,joy,fire and water
+181,2.735,3,0.5,1,emotional disturbance,ripples in water
+182,3.204,3,0.5,2,transience,flower petals dispersing
+183,3.789,4,0.667,3,self-discovery,jigsaw puzzle
+184,0.0,0,0.0,0,trail running,none
+185,3.703,4,0.571,1,international peace agreement,mountain peak handshake
+186,2.195,2,0.333,1,intimate relationship,narrow passage
+187,1.468,2,0.286,1,internal conflict,sword dividing opposing forces
+188,1.663,2,0.286,1,heartbreak,decay and loss
+189,2.865,3,0.5,3,creativity,markers and crayons
+190,1.045,1,0.2,1,creativity,painting
+191,2.594,3,0.5,2,passion,fire and electricity
+192,0.0,0,0.0,0,abandonment,none
+193,5.779,5,0.714,3,corruption removal,dental extraction
+194,6.605,6,0.857,4,searching for connection,desert exploration
+195,1.477,2,0.333,1,human consciousness,clockwork mechanism
+196,0.0,0,0.0,0,river landscape,none
+197,2.963,3,0.429,2,resilience,light
+198,0.0,0,0.0,0,small crested bird,none
+199,2.471,3,0.5,1,despair,isolation in empty landscape
+200,0.0,0,0.0,0,friendship,none
+201,3.196,3,0.5,2,stardom,radiant light
+202,2.772,3,0.5,2,fragility under threat,fire and smoke
+204,2.761,3,0.5,2,inner light,glass structure
+205,0.0,0,0.0,0,nighttime serenity,none
+206,3.981,4,0.667,2,failure and decay,shipwrecks
+207,2.597,3,0.429,1,global crisis,drowning planet
+208,2.549,3,0.5,2,comfort and warmth,quilted bedding
+210,1.924,2,0.286,1,creative power,paintbrush
+211,1.837,2,0.286,1,human civilization,theater
+212,1.987,2,0.333,2,environmental collapse,predatory bird
+213,3.17,3,0.5,2,pressure,traffic
+214,1.734,2,0.286,1,mortality,time
+215,0.0,0,0.0,0,spring renewal,none
+216,2.068,3,0.5,1,death,winter
+217,2.17,3,0.429,1,workplace stress,hell
+218,1.892,2,0.333,1,identity transformation,painting
+219,1.768,2,0.333,1,human intellect,architecture
+220,2.571,3,0.429,1,intimate connection,treasure
+221,0.0,0,0.0,0,sprinting,none
+222,3.578,3,0.5,2,hidden value,gemstone in rock
+223,1.112,1,0.167,1,inner turmoil,elemental forces
+224,2.499,3,0.5,1,emotional confinement,thorny cage
+225,0.0,0,0.0,0,diversity,none
+226,0.0,0,0.0,0,recovery,none
+227,1.854,2,0.333,1,hope,light in darkness
+228,1.69,2,0.333,1,classroom chaos,wild animal invasion
+229,1.527,2,0.333,1,human intelligence,digital network
+230,1.256,1,0.143,1,wisdom transmission,light
+231,1.14,1,0.2,1,unstoppable power,bull in storm
+232,1.912,2,0.333,1,commercial travel,wealth
+233,1.69,2,0.333,1,rage,electricity
+234,1.681,2,0.286,1,societal collapse,funeral
+235,1.783,2,0.286,1,neglect of relationships,dying plants
+236,2.332,3,0.429,1,secret society,underground gathering
+237,1.482,2,0.333,1,human insignificance,vast sky
+238,4.323,5,0.833,0,wealth abundance,rainfall
+239,1.483,2,0.333,1,hope,lighthouse beam
+240,2.239,2,0.333,2,memory,attic
+241,2.743,3,0.5,2,love,light
+242,2.647,3,0.5,2,bureaucratic overwhelm,drowning
+243,2.219,3,0.5,1,spiritual enlightenment,navigation
+244,1.494,2,0.4,1,inner light,radiance
+245,2.234,3,0.5,1,isolation,desert
+247,1.588,2,0.4,1,mortality,stone statue
+248,2.746,3,0.429,2,entrapment,spider web
+249,2.185,2,0.333,1,blocked ambition,stranded ship
+250,1.641,2,0.333,1,mind,map

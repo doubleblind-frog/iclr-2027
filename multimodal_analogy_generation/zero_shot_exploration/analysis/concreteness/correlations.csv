@@ -1,0 +1,7 @@
+generator,metric,n,pearson_r,pearson_p,spearman_r,spearman_p
+flux-klein-zero,clip,231,+0.2297,0.0004,+0.2171,0.0009
+stable-core-zero,clip,243,+0.1864,0.0035,+0.1713,0.0074
+gpt-image-zero,clip,238,+0.2307,0.0003,+0.2427,0.0002
+flux-klein-cot,clip,231,+0.2762,0.0000,+0.2780,0.0000
+stable-core-cot,clip,243,+0.2081,0.0011,+0.1906,0.0029
+gpt-image-cot,clip,239,+0.2382,0.0002,+0.2585,0.0001

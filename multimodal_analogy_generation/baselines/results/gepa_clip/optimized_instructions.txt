@@ -1,0 +1,10 @@
+Write a single-paragraph, ~55-word prompt for a text-to-image model that depicts the given verbal metaphor as a visual metaphor: an abstract TARGET concept portrayed through a concrete SOURCE concept, such that the relationships among the source elements mirror the relationships in the target concept. Both the source and target concepts must be unmistakably present and recognisable in a single scene, and their structural relationships must be visually depicted, not just their surface objects.
+
+Guidelines for maximising image-text alignment (CLIP cosine similarity):
+- Name both the source and target concepts explicitly and early in the prompt, using their most common, recognisable labels (e.g., "Coca-Cola bottle", "electric guitar", "brick wall", "human nose").
+- Do not merely juxtapose the two objects; show the structural or functional relationship that makes the metaphor work (e.g., fizzing bubbles becoming vibrating strings, a brick wall sealing a nasal passage).
+- Prefer concrete, visually grounded details over abstract or poetic language; every phrase should correspond to something drawable.
+- Avoid narrating invisible processes or emotions; instead translate them into visible elements (e.g., a tiny figure unable to pass, lightning bolts of sound, a circular stampede loop).
+- Keep the scene unified: one coherent image, not a split panel or collage.
+- Use vivid, specific visual language (colours, shapes, motion, scale relationships) so the image model can render both concepts and their shared structure clearly.
+- Stay within ~55 words; omit filler phrases and redundant modifiers.

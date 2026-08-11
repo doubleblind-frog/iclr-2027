@@ -1,0 +1,246 @@
+id,gold_1,gold_2,extracted_target,extracted_source,status,cos_high,cos_low,cos_mean,both_match,either_match,cos_target,cos_source
+001,Cars,Pollution,destruction,fire,ok,0.472,0.3404,0.4062,False,True,0.472,0.3404
+002,Drunk driving,Car accidents,alcohol addiction,car crash,ok,0.8186,0.5755,0.697,True,True,0.5755,0.8186
+003,Alcohol,Fun,clarity,sparkling water,ok,0.4693,0.2459,0.3576,False,True,0.2459,0.4693
+004,Air conditioning,Environments,climate control,extreme temperature extremes,ok,0.5859,0.2066,0.3962,False,True,0.5859,0.2066
+005,Juice,Freshness,apple juice,none,no_metaphor_detected,0.7767,0.1931,0.4849,False,True,0.7767,0.1931
+006,Fast food,Adventure,exploration and discovery,corporate commercialism,ok,0.6162,0.4065,0.5113,False,True,0.6162,0.4065
+007,Nutrition,Sports,athletic achievement,disciplined nutrition,ok,0.722,0.6404,0.6812,True,True,0.6404,0.722
+008,Pasta,Authentic Italian,italian cuisine,none,no_metaphor_detected,0.6711,0.2292,0.4502,False,True,0.6711,0.2292
+009,Nissan Juke,Batmobil,luxury automotive aspirations,beacon in darkness,ok,0.356,0.2222,0.2891,False,False,0.356,0.2222
+010,Music,Punch,music,explosion,ok,1.0,0.3753,0.6877,False,True,1.0,0.3753
+011,Vaccine resistance,Bridge crossing,life choices,bridges,ok,0.7351,0.0111,0.3731,False,True,0.0111,0.7351
+012,Cadburry chocolate,Fresh Milk,harmony,cream and chocolate mixing,ok,0.5133,0.1331,0.3232,False,True,0.1331,0.5133
+013,Running,Calory crusher,high-intensity exercise,fire,ok,0.3206,0.2085,0.2646,False,False,0.3206,0.2085
+014,Brämhults,Carrot,growth,none,no_metaphor_detected,0.299,0.1863,0.2427,False,False,0.299,0.1863
+015,Genetically modified food,Predators,health,dragon,ok,0.2996,0.1305,0.215,False,False,0.1305,0.2996
+016,Time,Highway,time progression,journey,ok,0.5371,0.428,0.4826,False,True,0.5371,0.428
+017,Taking risks,Shark-ridden waters,extreme vulnerability,predatory siege,ok,0.4873,0.3119,0.3996,False,True,0.4873,0.3119
+018,Pencils,Christmas,creativity,colored pencils,ok,0.8968,0.3299,0.6133,False,True,0.3299,0.8968
+019,Smoking addiction,Maze,nicotine addiction,cigarette entrapment,ok,0.8782,0.2045,0.5414,False,True,0.8782,0.2045
+020,Cigarettes,Money,financial loss,burning money,ok,0.4052,0.4005,0.4028,False,False,0.4052,0.4005
+021,Driving safety,Lion tamer,confronting danger,lion taming,ok,0.8056,0.3421,0.5738,False,True,0.3421,0.8056
+022,Right path,Highlighter,pursuit of knowledge,light,ok,0.4047,0.2803,0.3425,False,False,0.2803,0.4047
+023,Cars,City,hope,lantern,ok,0.2542,0.1688,0.2115,False,False,0.1688,0.2542
+024,Wallet,Travel,travel opportunity,financial wealth,ok,0.7258,0.3828,0.5543,False,True,0.7258,0.3828
+025,Deadline,Trap,time pressure,mechanical machinery,ok,0.5217,0.1247,0.3232,False,True,0.5217,0.1247
+026,Coffee,Lightswitch,inner joy,glowing warmth,ok,0.2773,0.2718,0.2745,False,False,0.2773,0.2718
+027,Toothpaste,Spotlight,confidence,spotlight,ok,1.0,0.1957,0.5978,False,True,0.1957,1.0
+028,Jaywalking,Death,feeling overwhelmed,navigating dangerous traffic,ok,0.3786,0.1826,0.2806,False,False,0.1826,0.3786
+029,Storing vegetables,Corpse,neglect,cold storage,ok,0.5128,0.2512,0.382,False,True,0.2512,0.5128
+030,Pharmaceutical industry,Money machine,capitalism,industrial machine,ok,0.458,0.2839,0.371,False,True,0.2839,0.458
+031,Healthcare,Coin machine,healthcare access,institutional barriers,ok,0.7322,0.0427,0.3875,False,True,0.7322,0.0427
+032,Donuts,Loch Ness monster,hope amid despair,donut,ok,0.8295,0.1034,0.4664,False,True,0.1034,0.8295
+033,Donuts,Arrest your hunger,temptation,competing for food,ok,0.3483,0.2917,0.32,False,False,0.2917,0.3483
+034,Eating chips,Flavour adventure,perseverance through adversity,journey through inferno,ok,0.2846,0.1191,0.2019,False,False,0.1191,0.2846
+035,Dove cream,Flower,purity,dewdrops,ok,0.3155,0.2555,0.2855,False,False,0.3155,0.2555
+036,Drunk driving,Car crash,leadership amid chaos,ship navigation,ok,0.1873,0.0998,0.1436,False,False,0.1873,0.0998
+037,Heaphones,Pushing music,listening,light waves,ok,0.3998,0.0905,0.2451,False,False,0.3998,0.0905
+038,Head without helmet,Cracked egg,mental fragility,fragile glass,ok,0.3718,0.1323,0.252,False,False,0.1323,0.3718
+039,Digital entertainment,Funeral,death of knowledge,funeral,ok,1.0,0.1611,0.5805,False,True,0.1611,1.0
+040,Social media,False oasis,escapism through technology,digital dissolution,ok,0.2736,0.1464,0.21,False,False,0.2736,0.1464
+041,Online validation,Kibble,social media consumption,hunting and feeding,ok,0.3492,0.09,0.2196,False,False,0.09,0.3492
+042,Marine pollution,Ash tray,environmental destruction,poison,ok,0.5783,0.218,0.3982,False,True,0.5783,0.218
+043,Aspirin pill,Football helmet,pain relief,football protection,ok,0.636,0.4741,0.5551,True,True,0.4741,0.636
+044,Coca cola,Fuel,intellectual empowerment,electrical energy,ok,0.3446,0.141,0.2428,False,False,0.141,0.3446
+045,Sweet tooth,Predator,temptation,candy,ok,0.5525,0.2753,0.4139,False,True,0.2753,0.5525
+046,Clear vision,Art to reality,imagination,alien visitation,ok,0.4183,0.1005,0.2594,False,False,0.4183,0.1005
+047,Pencils,Colours of nature,artistic creativity,plant growth,ok,0.3579,0.1583,0.2581,False,False,0.3579,0.1583
+048,Hair gel,Lizard's feet,biomimetic technology,gecko foot pad,ok,0.6759,0.1673,0.4216,False,True,0.1673,0.6759
+049,Ketchup,Fresh tomatoes,food preservation,none,no_metaphor_detected,0.3728,0.2511,0.312,False,False,0.3728,0.2511
+050,SUV trunk,Dimensional fold,storage capacity,warehouse,ok,0.5033,0.1366,0.32,False,True,0.1366,0.5033
+051,Ice melting,Missile,emotional upheaval,volcanic eruption,ok,0.3344,0.1267,0.2305,False,False,0.1267,0.3344
+052,Polar bear,Fracturing iceberg,inner power,elemental magic,ok,0.1851,0.1422,0.1637,False,False,0.1851,0.1422
+053,Beer,Good idea,creative work,beer,ok,1.0,0.1949,0.5974,False,True,0.1949,1.0
+054,Pillow,Sleep supplements,comfort and well-being,glowing pillow,ok,0.627,0.1769,0.402,False,True,0.1769,0.627
+055,Fear,Monsters,fear,monsters,ok,1.0,1.0,1.0,True,True,1.0,1.0
+056,Iron,Dunes in the desert,overcoming challenges,ironing,ok,0.5826,0.0449,0.3138,False,True,0.0449,0.5826
+057,Vehicle,Horse,loss of control,vehicle disintegration,ok,0.5276,0.1876,0.3576,False,True,0.1876,0.5276
+058,Ketchup,Bomb,spiciness,explosion,ok,0.6569,0.4734,0.5651,True,True,0.4734,0.6569
+059,Ketchup,Flame,spiciness,fire,ok,0.7495,0.4734,0.6114,True,True,0.4734,0.7495
+060,Lego bricks,Planes,system collapse,disintegrating structure,ok,0.185,0.1448,0.1649,False,False,0.1448,0.185
+061,Condom,Life buoy,emotional refuge,lifebuoy in stormy seas,ok,0.6341,0.2175,0.4258,False,True,0.2175,0.6341
+062,Smile,Lightbulbs,joy,light emission,ok,0.4801,0.4403,0.4602,False,True,0.4403,0.4801
+063,Education,Wood factory,labor dehumanization,factory production,ok,0.6814,0.2182,0.4498,False,True,0.2182,0.6814
+064,Lollipop,Apple,corruption of health by temptation,lollipop replacing apple,ok,0.6107,0.108,0.3594,False,True,0.108,0.6107
+065,Healthy diet,Preventative medicine,health and wellness,nutrition,ok,0.5862,0.432,0.5091,False,True,0.432,0.5862
+067,Power drill,Nelson Mandela,overcoming obstacles,destructive force,ok,0.3539,0.2339,0.2939,False,False,0.2339,0.3539
+068,Mayonnaise,Helium balloons,culinary aspiration,levitation,ok,0.4557,0.2324,0.3441,False,True,0.2324,0.4557
+069,Coffee,Fuel,caffeine stimulation,engine power,ok,0.5194,0.4788,0.4991,True,True,0.5194,0.4788
+070,Fries,Cigarettes,temptation,food,ok,0.5209,0.3143,0.4176,False,True,0.3143,0.5209
+071,Coffee beans,Heavy eyelids,coffee energy,fire,ok,0.544,0.0879,0.316,False,True,0.544,0.0879
+072,Earth,Kitchen prep station,agriculture,miniature diorama,ok,0.3095,0.2177,0.2636,False,False,0.3095,0.2177
+073,Harvester,Crop,farmer identity,wheat crop,ok,0.5562,0.443,0.4996,False,True,0.443,0.5562
+074,Milo coffee,Champion,personal transformation,nutritional beverage,ok,0.4348,0.132,0.2834,False,False,0.132,0.4348
+075,Life,Wave to be surfed,freedom and joy,surfing,ok,0.5345,0.4568,0.4956,True,True,0.4568,0.5345
+076,Vodka,Nature,purity,mountain spring,ok,0.3607,0.2793,0.32,False,False,0.3607,0.2793
+077,Coffee,Battery,energy and alertness,lightning and fire,ok,0.2996,0.2879,0.2938,False,False,0.2996,0.2879
+078,Water,Mountains,environmental fragility,bottled landscape,ok,0.4115,0.2017,0.3066,False,False,0.2017,0.4115
+079,Nivea cream,Cactus,hardship,indulgence,ok,0.1886,0.1445,0.1666,False,False,0.1445,0.1886
+080,Human skin in the sun,Bread in a toaster,technology addiction,fire,ok,0.2122,-0.0231,0.0946,False,False,-0.0231,0.2122
+081,Blocked nose,Brick wall,emotional hardness,brick wall,ok,1.0,0.1174,0.5587,False,True,0.1174,1.0
+082,Nyquil,Flock of sleep,spiritual liberation,doves and magic,ok,0.3534,0.191,0.2722,False,False,0.191,0.3534
+083,Bottle cap,Oyster,hidden inner value,pearl in oyster,ok,0.7532,0.0763,0.4147,False,True,0.0763,0.7532
+084,Bread spreads,Palette,gastronomy,visual art,ok,0.4511,0.2276,0.3393,False,True,0.2276,0.4511
+085,Parship dating site,Zipper,revelation,zipper,ok,1.0,0.0639,0.532,False,True,0.0639,1.0
+086,Pepsi,Injection,energy and vitality,electricity,ok,0.2788,0.2651,0.2719,False,False,0.2788,0.2651
+087,Mugler perfume,Flower,luxury fragrance,lotus flower,ok,0.7877,0.6528,0.7202,True,True,0.6528,0.7877
+088,Words,Weapon,harsh speech,ice shards,ok,0.3125,0.2526,0.2826,False,False,0.3125,0.2526
+089,Phone,Mouse trap,digital engagement,fishing trap,ok,0.6679,0.3365,0.5022,False,True,0.3365,0.6679
+090,Pizza delivery,Paper airplane,aspiration,paper airplane,ok,1.0,0.1181,0.559,False,True,0.1181,1.0
+091,Penguins in the Antarctic,Plastic pollution,environmental degradation,plastic pollution,ok,1.0,0.122,0.561,False,True,0.122,1.0
+092,Coca Cola,Power chord,rock music,electricity,ok,0.4646,0.2108,0.3377,False,True,0.2108,0.4646
+093,Holy cross,Bug spray,pest control,divine protection,ok,0.6967,0.3953,0.546,False,True,0.6967,0.3953
+094,Umbrella,Books and smartphones,education,shelter,ok,0.4924,0.3267,0.4095,False,True,0.3267,0.4924
+095,Red bull,Battery,energy boost,electricity,ok,0.5941,0.4646,0.5294,True,True,0.4646,0.5941
+096,Automotive safety,Valuable gem,luxury car,diamond,ok,0.5268,0.3739,0.4504,False,True,0.3739,0.5268
+097,Adhestive tape,Airplanes,shared journey,aircraft on runway,ok,0.4132,0.0014,0.2073,False,False,0.0014,0.4132
+098,Work boot,Bulldozer,overwhelming power,industrial boot,ok,0.5188,0.2319,0.3753,False,True,0.2319,0.5188
+099,High heel shoe,Snake,seductive femininity,snake,ok,1.0,0.1729,0.5865,False,True,0.1729,1.0
+100,Social media addiction,Hamster wheel,social media engagement,hamster wheel,ok,1.0,0.5675,0.7838,True,True,0.5675,1.0
+101,Social media feed,Toilet paper,media infrastructure collapse,crumbling tower,ok,0.2085,0.1625,0.1855,False,False,0.2085,0.1625
+102,Tongue,Old sock,deterioration,none,no_metaphor_detected,0.2736,0.2067,0.2401,False,False,0.2736,0.2067
+103,Bug spray,Spiderman,insecticide effectiveness,superhero destruction,ok,0.6189,0.4505,0.5347,True,True,0.6189,0.4505
+104,Sun care,Oasis of shade,relief from hardship,oasis in desert,ok,0.7055,0.1736,0.4396,False,True,0.1736,0.7055
+105,Tabasco sauce,Fire extinguisher,spiciness,fire,ok,0.5474,0.4116,0.4795,False,True,0.4116,0.5474
+106,Tampax tampons,Dams,obstruction,barriers,ok,0.299,0.135,0.217,False,False,0.135,0.299
+107,Gambling,Dental health,risk and loss,poker,ok,0.6656,0.0583,0.3619,False,True,0.0583,0.6656
+108,Tic tacs,Strawberries,medicine,natural remedy,ok,0.2047,0.147,0.1758,False,False,0.2047,0.147
+109,Unauthorised car service,Predatory dinosaur,danger in civilization,predatory creature,ok,0.7681,0.1431,0.4556,False,True,0.1431,0.7681
+110,Honda car,Train on rails,control and direction,piloting a vehicle,ok,0.2717,0.2064,0.239,False,False,0.2064,0.2717
+111,Ocean pollution,Food on the dinner table,food contamination,plastic pollution,ok,0.6881,0.3687,0.5284,False,True,0.3687,0.6881
+112,Pencils,Dachshund,loyalty,artistic practice,ok,0.447,0.2078,0.3274,False,False,0.2078,0.447
+113,Uterus,Listening,impact,ripples,ok,0.2281,0.1971,0.2126,False,False,0.1971,0.2281
+114,Vaseline,Cracks in earth,desolation,hope,ok,0.1868,0.1646,0.1757,False,False,0.1868,0.1646
+115,Vaseline,Art restoration,restoration,painting,ok,0.6283,0.2083,0.4183,False,True,0.6283,0.2083
+116,Smokestacks,Proteins on viruses,industrial pollution,viral infection,ok,0.4454,0.3094,0.3774,False,False,0.3094,0.4454
+117,Brain,Walnut,mind,walnut,ok,1.0,0.5728,0.7864,True,True,0.5728,1.0
+118,Pink eye,Horror movie,emotional suffering,infection,ok,0.5262,0.3709,0.4486,False,True,0.3709,0.5262
+119,Presciption drug,Mortality,illness,medication,ok,0.6441,0.5326,0.5883,True,True,0.5326,0.6441
+120,Animal hunters,Human prey,facing adversity,predatory animals,ok,0.634,0.3274,0.4807,False,True,0.3274,0.634
+121,Colour palette,Toast bread,color selection,bread toasting,ok,0.9109,0.6243,0.7676,True,True,0.6243,0.9109
+122,Not social distancing,Explosion,social tension,electrical discharge,ok,0.4961,0.3465,0.4213,False,True,0.4961,0.3465
+123,Killing a tree,Killing a bird,rebirth,phoenix,ok,0.2249,0.1341,0.1795,False,False,0.1341,0.2249
+124,Wildlife,Symphony orchestra,nature's harmony,music,ok,0.5204,0.4511,0.4857,True,True,0.4511,0.5204
+125,Ship sails,Butterflies,transformation,butterflies,ok,1.0,0.1479,0.574,False,True,0.1479,1.0
+126,Tango,Flavour,passion,fire,ok,0.3329,0.2978,0.3153,False,False,0.3329,0.2978
+127,Strong love,Solid foundation,romantic relationship,solid foundation,ok,1.0,0.4995,0.7497,True,True,0.4995,1.0
+128,Drinking Water,Time bomb,time,flowing water,ok,0.5412,0.5131,0.5272,True,True,0.5131,0.5412
+129,Drinking Away,Riches,spiritual emptiness,material wealth,ok,0.6931,0.2493,0.4712,False,True,0.2493,0.6931
+130,Global Warming,Time bomb,imminent catastrophe,bomb countdown,ok,0.6319,0.4093,0.5206,False,True,0.4093,0.6319
+131,Party,Flavour,eating,celebration,ok,0.5724,0.3564,0.4644,False,True,0.3564,0.5724
+132,Love,Donut,passion,heat,ok,0.4883,0.2355,0.3619,False,True,0.4883,0.2355
+133,Burger,Flame,intense desire,fire,ok,0.7495,0.1229,0.4362,False,True,0.1229,0.7495
+134,Car,Wind,ambition,speed,ok,0.3935,0.2636,0.3285,False,False,0.2636,0.3935
+135,Sky,Limit,achievement,mountain climbing,ok,0.2002,0.1727,0.1864,False,False,0.1727,0.2002
+136,Strawberries,Mountains,abundance,mountain,ok,0.8177,0.2286,0.5232,False,True,0.2286,0.8177
+137,Words,Fire,loss of knowledge,fire consuming documents,ok,0.4484,0.2599,0.3542,False,False,0.2599,0.4484
+138,Words,Weapons,emotional turmoil,explosion,ok,0.3294,0.2901,0.3098,False,False,0.2901,0.3294
+139,Heart,Calling,inner strength,light,ok,0.379,0.1966,0.2878,False,False,0.379,0.1966
+140,Chocolate,Silk,time,flowing liquid,ok,0.2823,0.2117,0.247,False,False,0.2823,0.2117
+141,Love,Bones,vitality,fire,ok,0.4118,0.2781,0.345,False,False,0.2781,0.4118
+142,Roots,Crisis,despair,abyss,ok,0.3522,0.2142,0.2832,False,False,0.3522,0.2142
+143,Wave,Anger,inner turmoil,storm,ok,0.5111,0.412,0.4615,False,True,0.5111,0.412
+144,Pen,Knife,writing,none,no_metaphor_detected,0.5617,0.1946,0.3781,False,True,0.5617,0.1946
+145,Sea,Loneliness,social isolation,figure among blur,ok,0.6149,0.1527,0.3838,False,True,0.6149,0.1527
+146,Fruits,Ignorance,despair,barren landscape,ok,0.4556,0.1515,0.3036,False,True,0.4556,0.1515
+147,Faculty meeting,Nightmare,bureaucracy,storm,ok,0.3495,0.3082,0.3288,False,False,0.3082,0.3495
+148,Man,Whale in swimming pool,overwhelming constraint,whale in pool,ok,0.9389,0.1126,0.5258,False,True,0.1126,0.9389
+149,Sky on fire,Pain pouring down,emotional torment,fire,ok,0.6052,0.4345,0.5199,False,True,0.4345,0.6052
+150,Jaws,Death,human struggle,cave,ok,0.2969,0.2397,0.2683,False,False,0.2969,0.2397
+151,Seed,Life on our planet,growth,electrical energy,ok,0.3467,0.1102,0.2285,False,False,0.3467,0.1102
+153,Love,Summer day,natural beauty,none,no_metaphor_detected,0.3417,0.2279,0.2848,False,False,0.3417,0.2279
+154,Crowd,Roaring river,being overwhelmed by crowd,drowning in water,ok,0.6091,0.3006,0.4549,False,True,0.6091,0.3006
+155,Heartbreak,Stampede of buffalo,unstoppable momentum,buffalo stampede,ok,0.82,0.2077,0.5139,False,True,0.2077,0.82
+157,Absence,Photography dark room,grief and memory,hell,ok,0.2895,0.1681,0.2288,False,False,0.1681,0.2895
+158,Alcohol,Friend,romantic love,warmth and light,ok,0.331,0.2772,0.3041,False,False,0.2772,0.331
+159,America,Gun,industrial destruction,revolver,ok,0.6097,0.2394,0.4245,False,True,0.2394,0.6097
+160,Educated woman,Danger,liberation,breaking free from constraint,ok,0.3983,0.1055,0.2519,False,False,0.3983,0.1055
+161,Unexpected loss,Blow to the face,mental overwhelm,swirling leaves,ok,0.2426,0.1555,0.1991,False,False,0.2426,0.1555
+162,Anger,Demon,inner torment,explosion,ok,0.4394,0.3866,0.413,False,False,0.4394,0.3866
+163,Anxiety,Freight train that runs over a deer,helplessness,oncoming collision,ok,0.563,0.329,0.446,False,True,0.563,0.329
+164,Autumn,Depression,despair,desolate forest,ok,0.6239,0.3423,0.4831,False,True,0.6239,0.3423
+166,Getting up in the morning,Battle,comfort,bed,ok,0.3451,0.202,0.2735,False,False,0.202,0.3451
+167,Earth,Prison,systemic oppression,prison confinement,ok,0.8221,0.2157,0.5189,False,True,0.2157,0.8221
+168,Human,Garden,hidden foundations,root systems,ok,0.2636,0.133,0.1983,False,False,0.133,0.2636
+169,Sin,Wage you must pa,moral corruption,balance scale,ok,0.391,0.0332,0.2121,False,False,0.391,0.0332
+170,Failure,Treacherous pit,uncertainty,abyss,ok,0.5415,0.3146,0.4281,False,True,0.3146,0.5415
+171,Faith,Dangerous road,uncertainty in life,mountain journey through fog,ok,0.3534,0.2727,0.3131,False,False,0.3534,0.2727
+172,Fear,Lock,captivity,padlock and chains,ok,0.5639,0.4141,0.489,False,True,0.4141,0.5639
+173,Frienship,Sheltering tree,emotional intimacy,natural shelter,ok,0.5848,0.4844,0.5346,True,True,0.4844,0.5848
+174,Hate,Blizzard,adversity,blizzard,ok,1.0,0.3366,0.6683,False,True,0.3366,1.0
+175,Hair,Bird's nest,harmony with nature,natural growth,ok,0.2713,0.264,0.2676,False,False,0.2713,0.264
+176,Hair,Sea,inner radiance,fire,ok,0.3901,0.2205,0.3053,False,False,0.2205,0.3901
+177,Hair,Curling mist,transcendence,clouds,ok,0.3928,0.1924,0.2926,False,False,0.1924,0.3928
+178,Love,Hurricane,resilience,natural disaster,ok,0.5059,0.3621,0.434,False,True,0.3621,0.5059
+179,Mouth,Poison flower,inner beauty and expression,luminescent magical flower,ok,0.585,0.2705,0.4277,False,True,0.2705,0.585
+180,Smile,Warm fire,love,melting ice,ok,0.3929,0.302,0.3474,False,False,0.3929,0.302
+181,Soul,Quiet sea,introspection,water,ok,0.3569,0.346,0.3514,False,False,0.3569,0.346
+182,Voice,Rose,beauty and femininity,roses,ok,0.7664,0.3044,0.5354,False,True,0.3044,0.7664
+183,Body,Wooden puzzle,human identity,puzzle,ok,0.5385,0.2672,0.4028,False,True,0.2672,0.5385
+184,Life,Marathon,personal progress,journey along a path,ok,0.2309,0.2211,0.226,False,False,0.2309,0.2211
+185,Love,Conquest,international relations,national flags and territorial divide,ok,0.2144,0.1882,0.2013,False,False,0.2144,0.1882
+186,Love,Dead end,love,journey through obstacles,ok,1.0,0.2316,0.6158,False,True,1.0,0.2316
+187,Love,Double-edged sword,duality,sword,ok,0.3525,0.2074,0.28,False,False,0.3525,0.2074
+188,Love,Sickness,heartbreak,illness,ok,0.9118,0.6386,0.7752,True,True,0.6386,0.9118
+189,Brain,Box of crayons,creativity,crayons,ok,0.7462,0.3881,0.5671,False,True,0.3881,0.7462
+190,Heart,Blank canvas,human emotion,artistic painting,ok,0.5233,0.5009,0.5121,True,True,0.5009,0.5233
+191,Heart,Dancer,human passion,fire,ok,0.4802,0.2885,0.3844,False,True,0.4802,0.2885
+192,Heart,Garden in autumn,grief,decay and desolation,ok,0.4098,0.2035,0.3066,False,False,0.4098,0.2035
+193,Jaws,Rollercoaster,loss of agency,mechanical constraint,ok,0.182,0.1121,0.1471,False,False,0.182,0.1121
+194,Mind,Desert,aspiration,desert exploration,ok,0.7333,0.2465,0.4899,False,True,0.2465,0.7333
+195,Mouth,Music box,desire,mechanical artifact,ok,0.3142,0.2033,0.2587,False,False,0.3142,0.2033
+196,Path,River with many tributaries,mountain valley,none,no_metaphor_detected,0.2795,0.1521,0.2158,False,False,0.2795,0.1521
+197,Silence,Weapons,spiritual awakening,radiant light,ok,0.261,0.2205,0.2408,False,False,0.261,0.2205
+198,Soul,Bird with broken wings,fragility,none,no_metaphor_detected,0.301,0.2422,0.2716,False,False,0.301,0.2422
+199,Night,Crawling toddler,twilight,none,no_metaphor_detected,0.4186,0.1038,0.2612,False,False,0.4186,0.1038
+200,Love,Board game,life's journey,board game,ok,1.0,0.2462,0.6231,False,True,0.2462,1.0
+201,Blazing sun,Ballroom dancer,spiritual awakening,fire and light,ok,0.408,0.1952,0.3016,False,False,0.1952,0.408
+202,Earth,Sunday roast,earth,food,ok,1.0,0.3267,0.6633,False,True,1.0,0.3267
+203,Earth,Mother,environmental stewardship,nurturing caretaker,ok,0.3974,0.3585,0.378,False,False,0.3585,0.3974
+204,Mind,Glass fortress,spiritual aspiration,crystal castle,ok,0.6218,0.2334,0.4276,False,True,0.2334,0.6218
+205,Moon,Smile,serenity,none,no_metaphor_detected,0.3074,0.1689,0.2382,False,False,0.3074,0.1689
+206,Ocean,Grave,despair,sunken shipwreck,ok,0.508,0.4254,0.4667,False,True,0.4254,0.508
+207,Planet,Sinking ship,environmental collapse,destroyed earth,ok,0.4853,0.3407,0.413,False,True,0.3407,0.4853
+208,Snow,Soft bed,snow landscape,none,no_metaphor_detected,0.7314,0.1114,0.4214,False,True,0.7314,0.1114
+209,Sun,Wounded deer,inner pain,fire,ok,0.3806,0.2976,0.3391,False,False,0.2976,0.3806
+210,World,Paintbrush,environmental choice,painting,ok,0.721,0.1339,0.4275,False,True,0.1339,0.721
+211,World,Stage,life and reality,theater,ok,0.6185,0.3176,0.468,False,True,0.3176,0.6185
+212,Thought,Vulture,impending doom,predatory bird,ok,0.5814,0.0776,0.3295,False,True,0.0776,0.5814
+213,Time,Bus,time pressure,imminent danger,ok,0.6153,0.2268,0.4211,False,True,0.6153,0.2268
+214,Time,Thief,mortality,grim reaper,ok,0.3507,0.2775,0.3141,False,False,0.2775,0.3507
+215,True love,Plum blossoms in bloom,spring blossoms,none,no_metaphor_detected,0.611,0.1379,0.3745,False,True,0.611,0.1379
+216,Winter,Bony crone,death,winter cold,ok,0.8476,0.1668,0.5072,False,True,0.1668,0.8476
+217,Work,Living hell,exploitative labor,hell,ok,0.6944,0.4916,0.593,True,True,0.4916,0.6944
+218,Face,Canvas,transformation,painting,ok,0.6386,0.2515,0.4451,False,True,0.2515,0.6386
+219,Mind,Powerful tool,human intelligence,digital energy,ok,0.3546,0.2457,0.3001,False,False,0.3546,0.2457
+220,Friend,Treasure,romantic love,treasure,ok,1.0,0.2772,0.6386,False,True,0.2772,1.0
+221,Cheetah,Race winner,athletic performance,none,no_metaphor_detected,0.3099,0.2283,0.2691,False,False,0.3099,0.2283
+222,Diamound,Rough,inner worth,precious stone,ok,0.2092,0.1924,0.2008,False,False,0.1924,0.2092
+223,Anger,Wildfire,inner strength,elemental forces,ok,0.3334,0.1584,0.2459,False,False,0.3334,0.1584
+224,Fear,Prison,entrapment,net,ok,0.4844,0.1915,0.3379,False,True,0.4844,0.1915
+225,India's culture,Salad bowl,spices and herbs,none,no_metaphor_detected,0.3017,0.0753,0.1885,False,False,0.3017,0.0753
+226,Laughter,Medicine,joy,light,ok,0.6473,0.3022,0.4747,False,True,0.6473,0.3022
+227,Life,Maze,searching for direction,navigating a labyrinth,ok,0.6913,0.2038,0.4476,False,True,0.2038,0.6913
+228,Classroom,Zoo,classroom chaos,uncontrolled motion,ok,0.697,0.0108,0.3539,False,True,0.697,0.0108
+229,Mind,Computer,human intelligence,digital networks,ok,0.3546,0.3267,0.3406,False,False,0.3546,0.3267
+230,Professor,Guiding light,knowledge,light,ok,0.4674,0.2949,0.3811,False,True,0.2949,0.4674
+231,Stormy ocean,Raging bull,unstoppable power,raging storm,ok,0.6444,0.2732,0.4588,False,True,0.2732,0.6444
+232,Airports,Pools of money,travel,wealth,ok,0.5162,0.4431,0.4797,False,True,0.5162,0.4431
+233,Soul and envy,Favourite meal,inner strength,supernatural power,ok,0.462,0.1098,0.2859,False,True,0.462,0.1098
+234,Society,Sleep,mortality,time,ok,0.3944,0.3744,0.3844,False,False,0.3944,0.3744
+235,Computer,Coma,abandonment,decay,ok,0.3379,0.2233,0.2806,False,False,0.2233,0.3379
+236,French bourgeoisie,Blind alley,social oppression,narrow alley,ok,0.7461,0.4037,0.5749,False,True,0.4037,0.7461
+237,Future,Cloudy sky,emotional overwhelm,storm clouds,ok,0.6174,0.0876,0.3525,False,True,0.0876,0.6174
+238,Company losing money,Walking out the door,wealth,avalanche,ok,0.2281,0.1546,0.1913,False,False,0.1546,0.2281
+239,Mind,Lighthouse beacon,guidance in adversity,lighthouse beam,ok,0.7977,0.1346,0.4662,False,True,0.1346,0.7977
+240,Full bag,Unloading memories,memory,attic,ok,0.5691,0.1832,0.3762,False,True,0.5691,0.1832
+242,Drowning in the ocean,Work,work overwhelm,drowning,ok,0.7219,0.4744,0.5981,True,True,0.4744,0.7219
+243,Lover,Compass,life direction,compass,ok,1.0,0.1696,0.5848,False,True,0.1696,1.0
+244,Best pupil at school,Shining star,spiritual awakening,divine light,ok,0.4824,0.0829,0.2826,False,True,0.0829,0.4824
+245,Lover,Sun in the sky,spiritual awakening,sun,ok,0.763,0.2661,0.5145,False,True,0.2661,0.763
+246,Gym,Measles,physical overexertion,skin inflammation,ok,0.3113,0.2537,0.2825,False,False,0.3113,0.2537
+247,Still sitting,Carved image,inner emptiness,barren landscape,ok,0.2765,0.1545,0.2155,False,False,0.1545,0.2765
+248,Not moving,Fly caught in a spiderweb,entrapment,spider web,ok,0.5347,0.2662,0.4005,False,True,0.2662,0.5347
+249,Failed love,Ocean and desert,displacement,shipwreck,ok,0.3129,0.2395,0.2762,False,False,0.2395,0.3129
+250,Wrinkly forehead,Old map,mind,cartography,ok,0.5526,0.1866,0.3696,False,True,0.1866,0.5526

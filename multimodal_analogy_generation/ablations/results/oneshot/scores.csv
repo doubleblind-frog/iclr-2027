@@ -1,0 +1,172 @@
+id,round,pullback_score,extracted_target,extracted_source,gold_domains,concepts_matched,n_gold_concepts,coverage,stop_reason,image_path
+015,1,1.615,food temptation,monster on dinner plate,genetically modified food | predator,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/015.png
+015,2,4.344,overcoming unhealthy habits,snake blocked by awareness shield from health goal trophy,genetically modified food | predator,0,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/015.png
+015,3,1.162,pursuit of healthy living,snake threatening a healthy meal,genetically modified food | predator,0,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/015.png
+015,4,2.384,health fraud,wolf hiding in salad bowl,genetically modified food | predator,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/015.png
+015,5,3.414,deceptive gmo food marketing,wolf hiding in salad bowl,genetically modified food | predator,1,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/015.png
+015,6,5.081,deceptive health marketing,wolf scientist deceiving trusting consumer,genetically modified food | predator,0,2,0.714,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/015.png
+015,7,6.149,corporate food deception,wolf scientist injecting tomato,genetically modified food | predator,0,2,0.714,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/015.png
+015,8,4.715,misleading food labeling,dark figure disguising gmo tomato,genetically modified food | predator,0,2,0.833,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/015.png
+015,9,2.376,genetically modified food,monster emerging from tomato,genetically modified food | predator,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/015.png
+015,10,2.859,gmo food safety concerns,monster emerging from injected tomato,genetically modified food | predator,1,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/015.png
+026,1,0.938,coffee energizing effect,glowing flame in a cup,coffee | lightswitch,0,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/026.png
+026,2,2.603,caffeine-induced alertness,light switch activation,coffee | lightswitch,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/026.png
+026,3,2.334,mental alertness,light switch mechanism,coffee | lightswitch,0,2,0.4,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/026.png
+026,4,2.07,caffeine awakening,light switch activation,coffee | lightswitch,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/026.png
+026,5,3.013,human alertness,light switch,coffee | lightswitch,1,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/026.png
+026,6,3.823,caffeine effect on energy,electrical switch mechanism,coffee | lightswitch,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/026.png
+026,7,2.743,coffee energizing effect,light switch activation,coffee | lightswitch,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/026.png
+026,8,1.012,coffee energizing effect,electrical switch activation,coffee | lightswitch,0,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/026.png
+026,9,3.054,coffee effect on human energy,electrical switch mechanism,coffee | lightswitch,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/026.png
+026,10,4.087,coffee energizing a person,electrical light switch,coffee | lightswitch,2,2,0.8,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/026.png
+035,1,2.707,purity,white rose with dewdrops,dove cream | flower,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/035.png
+035,2,3.288,skin moisturization,flower blooming in harsh environment,dove cream | flower,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/035.png
+035,3,1.089,skin moisturization,cream nourishing a flower,dove cream | flower,2,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/035.png
+035,4,1.973,skin moisturization,flower blooming in desert,dove cream | flower,2,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/035.png
+035,5,2.423,skin moisturization,dove beauty product transforming dry petals,dove cream | flower,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/035.png
+035,6,2.641,skin moisturization,flower transformation,dove cream | flower,2,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/035.png
+035,7,1.653,skin moisturization,flower petal transformation,dove cream | flower,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/035.png
+035,8,1.155,skin moisturization,flower with cream jar,dove cream | flower,2,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/035.png
+035,9,1.477,skin moisturization,flower transformation,dove cream | flower,2,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/035.png
+035,10,3.691,skin moisturization,cream pouring on flower,dove cream | flower,1,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/035.png
+045,1,1.621,temptation,candy land with cheshire cat grin,sweet tooth | predator,0,2,0.286,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/045.png
+045,2,4.718,tooth decay,monster attack,sweet tooth | predator,0,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/045.png
+045,3,3.931,tooth decay,monster battle,sweet tooth | predator,0,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/045.png
+045,4,1.709,tooth decay,monster attack,sweet tooth | predator,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/045.png
+045,5,2.046,tooth decay,monster chase,sweet tooth | predator,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/045.png
+045,6,1.872,sugar addiction,tooth decay,sweet tooth | predator,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/045.png
+045,7,1.991,sugar craving,monster attack with temptation lure,sweet tooth | predator,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/045.png
+045,8,1.188,tooth decay from sugar,crystal beast attacking cartoon tooth,sweet tooth | predator,0,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/045.png
+045,9,2.214,self-control,monster chase scene,sweet tooth | predator,0,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/045.png
+045,10,4.351,tooth decay,wolf attacking tooth,sweet tooth | predator,0,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/045.png
+048,1,5.21,persistence under adversity,gecko foot gripping wet glass,hair gel | lizard foot,1,2,0.714,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/048.png
+048,2,0.606,wet hair adhesion,gecko foot adhesion,hair gel | lizard foot,1,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/048.png
+048,3,1.598,eyelash mite infestation,gecko adhesive foot,hair gel | lizard foot,1,2,0.4,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/048.png
+048,4,4.518,parasitic exploitation,gecko adhesive foot,hair gel | lizard foot,1,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/048.png
+048,5,1.546,hair grip,gecko adhesive foot,hair gel | lizard foot,1,2,0.4,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/048.png
+048,6,1.06,adhesive technology,gecko foot adhesion,hair gel | lizard foot,1,2,0.2,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/048.png
+048,7,2.992,hair product application,gecko foot adhesion on wet surface,hair gel | lizard foot,2,2,0.6,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/048.png
+048,8,3.78,hair washing,washing corn,hair gel | lizard foot,1,2,0.8,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/048.png
+048,9,2.678,hair washing,gecko foot adhesion,hair gel | lizard foot,2,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/048.png
+048,10,1.225,hair care treatment,gecko foot adhesion,hair gel | lizard foot,2,2,0.2,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/048.png
+062,1,1.534,infectious joy,fire burning inside a person,smile | lightbulb,0,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k1/062.png
+062,2,2.092,contagious laughter,radiant light emission,smile | lightbulb,0,2,0.6,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k2/062.png
+062,3,2.616,self-confidence,teeth whitening,smile | lightbulb,0,2,0.429,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k3/062.png
+062,4,1.493,emotional transformation through connection,light and darkness,smile | lightbulb,0,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k4/062.png
+062,5,5.967,inspiring smile,light bulb teeth radiating light,smile | lightbulb,1,2,0.833,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k5/062.png
+062,6,2.723,inspirational speech,glowing mouth emitting energy waves,smile | lightbulb,0,2,0.5,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k6/062.png
+062,7,2.747,creative inspiration,glowing light bulb in thought bubble,smile | lightbulb,0,2,0.667,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k7/062.png
+088,1,2.038,harsh words,ice shard projectiles,word | weapon,0,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k1/088.png
+088,2,5.92,verbal abuse,knife attack,word | weapon,0,2,0.833,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k2/088.png
+088,3,4.0,verbal abuse,physical weapon attack,word | weapon,0,2,0.6,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k3/088.png
+088,4,4.0,verbal insult causing emotional harm,physical stabbing with a dagger,word | weapon,0,2,0.5,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k4/088.png
+089,1,3.725,smartphone addiction,animal trap with fishing lure,phone | mouse trap,2,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/089.png
+089,2,2.969,smartphone addiction,mousetrap,phone | mouse trap,2,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/089.png
+089,3,2.45,smartphone notification addiction,mousetrap,phone | mouse trap,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/089.png
+089,4,2.774,social media addiction,mousetrap,phone | mouse trap,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/089.png
+089,5,3.111,social media addiction,mousetrap,phone | mouse trap,1,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/089.png
+089,6,3.396,social media addiction,mousetrap with bait,phone | mouse trap,1,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/089.png
+089,7,3.336,social media addiction,mousetrap,phone | mouse trap,1,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/089.png
+089,8,3.245,social media addiction,mousetrap with bait,phone | mouse trap,1,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/089.png
+089,9,3.439,social media addiction,mousetrap,phone | mouse trap,1,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/089.png
+089,10,2.11,social media addiction,mousetrap with bait,phone | mouse trap,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/089.png
+098,1,4.7,hard work and determination,work boot crushing rocks at construction site,work boot | bulldozer,0,2,0.714,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/098.png
+098,2,2.001,hard work and perseverance,road construction through rubble,work boot | bulldozer,0,2,0.286,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/098.png
+098,3,3.457,hard work,construction site clearing,work boot | bulldozer,0,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/098.png
+098,4,2.752,overcoming obstacles,wall demolition,work boot | bulldozer,0,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/098.png
+098,5,4.155,overcoming obstacles,wall demolition,work boot | bulldozer,0,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/098.png
+098,6,2.348,overcoming obstacles,demolition of concrete wall,work boot | bulldozer,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/098.png
+098,7,4.521,overcoming obstacles,bulldozer and boot breaking through wall,work boot | bulldozer,0,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/098.png
+098,8,5.041,overcoming obstacles,bulldozer breaking through wall,work boot | bulldozer,1,2,0.714,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/098.png
+098,9,4.95,overcoming obstacles,bulldozer smashing through wall,work boot | bulldozer,1,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/098.png
+098,10,3.083,overcoming obstacles,boot smashing through concrete wall,work boot | bulldozer,0,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/098.png
+122,1,2.137,social anxiety in crowds,electric sparks from physical contact,not social distancing | explosion,0,2,0.5,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k1/122.png
+122,2,2.124,social anxiety,fire explosion in crowd,not social distancing | explosion,1,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k2/122.png
+125,1,1.917,life journey driven by imagination,sailing ship powered by butterflies,ship sails | butterfly,1,2,0.286,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/125.png
+125,2,2.678,creative imagination driving life journey,butterfly-sailed tall ship on the ocean,ship sails | butterfly,1,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/125.png
+125,3,3.92,transformation,sailing ship with butterfly sails,ship sails | butterfly,1,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/125.png
+125,4,2.14,personal transformation,butterfly-sailed tall ship,ship sails | butterfly,1,2,0.286,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/125.png
+125,5,1.612,personal transformation journey,butterfly-sailed tall ship,ship sails | butterfly,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/125.png
+125,6,2.463,migration,butterfly-sailed ship,ship sails | butterfly,1,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/125.png
+125,7,3.113,migration,tall ship with butterfly sails,ship sails | butterfly,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/125.png
+125,8,4.166,monarch butterfly migration,sailing voyage,ship sails | butterfly,1,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/125.png
+125,9,3.733,migration,sailing voyage,ship sails | butterfly,1,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/125.png
+125,10,1.519,personal transformation,tall ship with butterfly sails,ship sails | butterfly,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/125.png
+133,1,1.572,intense food spiciness,flaming cheeseburger,burger | flame,1,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k1/133.png
+133,2,0.0,spicy food experience,fire,burger | flame,1,2,0.0,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k2/133.png
+133,3,1.736,extreme spicy food challenge,fiery burger,burger | flame,1,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k3/133.png
+133,4,2.694,extreme spiciness,fire engulfing burger,burger | flame,1,2,0.4,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k4/133.png
+133,5,2.212,extreme spiciness experience,eating a flaming burger,burger | flame,1,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k5/133.png
+133,6,3.359,extreme spiciness,burning fire,burger | flame,1,2,0.429,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k6/133.png
+133,7,2.381,overwhelming spiciness,flaming burger,burger | flame,1,2,0.286,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k7/133.png
+133,8,1.197,extreme spiciness,fire consuming food,burger | flame,0,2,0.167,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k8/133.png
+133,9,2.5,eating extremely spicy food,man eating flaming burger,burger | flame,1,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k9/133.png
+133,10,2.5,extreme spiciness,fire and burning,burger | flame,1,2,0.333,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k10/133.png
+153,1,1.408,happiness,wildflower meadow at sunset,love | summer day,1,2,0.4,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k1/153.png
+153,2,1.044,romantic love,sun-drenched wildflower meadow,love | summer day,1,2,0.2,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k2/153.png
+153,3,1.169,romantic love,radiant sunburst in flower meadow,love | summer day,1,2,0.2,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k3/153.png
+153,4,2.184,romantic love,spring meadow in bloom,love | summer day,1,2,0.5,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k4/153.png
+153,5,1.605,romantic love,radiant sunlight in a sunflower field,love | summer day,1,2,0.4,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k5/153.png
+153,6,1.438,romantic love,blooming flower field in sunlight,love | summer day,1,2,0.286,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k6/153.png
+153,7,1.117,romantic love,sunlight,love | summer day,1,2,0.167,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k7/153.png
+153,8,0.833,romantic love,radiant sunlight,love | summer day,1,2,0.167,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k8/153.png
+153,9,0.576,romantic love,radiant sunlight in flower meadow,love | summer day,1,2,0.167,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k9/153.png
+153,10,0.602,romantic love,radiant sunlight in a flower meadow,love | summer day,1,2,0.2,flattened,visual_reasoning/experiment_1/ablations/oneshot/images/k10/153.png
+162,1,1.144,psychological suffering,demonic attack,anger | demon,1,2,0.167,generation_failed,visual_reasoning/experiment_1/ablations/oneshot/images/k1/162.png
+162,2,2.199,emotional suffering,demonic attack,anger | demon,1,2,0.286,generation_failed,visual_reasoning/experiment_1/ablations/oneshot/images/k2/162.png
+164,1,2.287,depression and melancholy,autumn forest path,autumn | depression,2,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/164.png
+164,2,2.025,grief,autumn scene,autumn | depression,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/164.png
+164,3,3.234,grief,storm in barren autumn landscape,autumn | depression,0,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/164.png
+164,4,3.538,depression,person alone in dark forest at night,autumn | depression,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/164.png
+164,5,3.113,depression,isolated figure in dark forest,autumn | depression,1,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/164.png
+164,6,3.404,grief,autumn storm,autumn | depression,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/164.png
+164,7,3.303,despair,dark forest with lantern,autumn | depression,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/164.png
+164,8,1.61,depression,dark forest scene,autumn | depression,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/164.png
+164,9,2.227,depression,solitary figure in autumn darkness,autumn | depression,1,2,0.286,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/164.png
+164,10,2.157,social isolation,solitary figure under autumn tree,autumn | depression,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/164.png
+176,1,2.156,emotional passion,ocean wave at sunset,hair | sea,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/176.png
+176,2,1.897,emotional freedom,crashing ocean wave,hair | sea,0,2,0.4,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/176.png
+176,3,1.553,joy,ocean waves,hair | sea,1,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/176.png
+176,4,2.508,overwhelming emotion,ocean wave,hair | sea,1,2,0.6,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/176.png
+176,5,2.866,emotional overwhelm,ocean wave,hair | sea,1,2,0.6,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/176.png
+176,6,3.067,overwhelming emotion,ocean wave,hair | sea,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/176.png
+176,7,4.021,inner emotional state,ocean wave,hair | sea,1,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/176.png
+176,8,2.448,inner peace,ocean at sunset,hair | sea,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/176.png
+176,9,2.592,emotional freedom,woman standing in ocean wind,hair | sea,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/176.png
+176,10,1.101,emotional freedom,ocean wave,hair | sea,1,2,0.2,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/176.png
+177,1,0.965,daydreaming,woman dissolving into clouds,hair | curling mist,0,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/177.png
+177,2,4.187,fading memory,hair dissolving into smoke,hair | curling mist,0,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/177.png
+177,3,1.559,daydreaming,smoke swirling in wind,hair | curling mist,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/177.png
+177,4,1.616,mental distress,hair dissolving into smoke,hair | curling mist,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/177.png
+177,5,2.484,impermanence of memories,hair dissolving into smoke,hair | curling mist,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/177.png
+177,6,2.675,fading memory,hair dissolving into smoke,hair | curling mist,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/177.png
+177,7,2.216,imagination,swirling smoke,hair | curling mist,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/177.png
+177,8,1.31,human imagination,swirling wind and mist,hair | curling mist,0,2,0.2,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/177.png
+177,9,1.496,imagination,swirling clouds merging with sky,hair | curling mist,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/177.png
+177,10,2.781,imagination,swirling mist and wind,hair | curling mist,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/177.png
+198,1,1.173,downfall,injured bird on stone ground,soul | bird with broken wings,1,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/198.png
+198,2,3.609,resilience amid adversity,glowing storm-bird in tempest,soul | bird with broken wings,0,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/198.png
+198,3,3.109,inner strength,luminous crow,soul | bird with broken wings,0,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/198.png
+198,4,2.32,dark supernatural power,lightning raven,soul | bird with broken wings,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/198.png
+198,5,3.507,inner strength,sparrow with inner fire,soul | bird with broken wings,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/198.png
+198,6,3.95,inner resilience,bird with inner fire in rain,soul | bird with broken wings,0,2,0.667,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/198.png
+198,7,2.608,death,dying bird releasing spirit,soul | bird with broken wings,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/198.png
+198,8,3.584,inner passion,burning bird,soul | bird with broken wings,1,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/198.png
+198,9,0.977,inner passion,small bird with burning chest,soul | bird with broken wings,1,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/198.png
+198,10,1.12,inner strength,bird with inner fire,soul | bird with broken wings,1,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/198.png
+230,1,2.764,education and mentorship,magical book transmission,professor | guiding light,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k1/230.png
+230,2,3.155,education,torch lighting a path,professor | guiding light,0,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k2/230.png
+230,3,2.609,education and mentorship,light guiding a path,professor | guiding light,0,2,0.5,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k3/230.png
+230,4,3.392,education,blazing book beacon,professor | guiding light,0,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k4/230.png
+230,5,1.08,mentorship and knowledge transfer,giant professor pouring books onto student,professor | guiding light,0,2,0.167,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k5/230.png
+230,6,1.658,mentorship,guiding beacon,professor | guiding light,0,2,0.333,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k6/230.png
+230,7,2.594,education and mentorship,divine illumination,professor | guiding light,0,2,0.429,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k7/230.png
+230,8,2.391,education,guiding light in storm,professor | guiding light,0,2,0.286,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k8/230.png
+230,9,3.626,academic journey,maritime storm navigation,professor | guiding light,0,2,0.571,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k9/230.png
+230,10,1.831,education,divine illumination,professor | guiding light,0,2,0.286,max_rounds,visual_reasoning/experiment_1/ablations/oneshot/images/k10/230.png
+249,1,4.046,loss of purpose and direction,stranded sailor in desert,failed love | ocean and desert,0,2,0.571,generation_failed,visual_reasoning/experiment_1/ablations/oneshot/images/k1/249.png
+249,2,1.719,heartbreak,desert abandonment scene,failed love | ocean and desert,1,2,0.333,generation_failed,visual_reasoning/experiment_1/ablations/oneshot/images/k2/249.png
+249,3,2.984,heartbreak,romantic abandonment at shoreline,failed love | ocean and desert,1,2,0.5,generation_failed,visual_reasoning/experiment_1/ablations/oneshot/images/k3/249.png
+249,4,1.898,unrequited love,corpse pleading to departing bride,failed love | ocean and desert,1,2,0.333,generation_failed,visual_reasoning/experiment_1/ablations/oneshot/images/k4/249.png
+249,5,4.461,unrequited love,shipwrecked sailor reaching at barren shore,failed love | ocean and desert,1,2,0.667,generation_failed,visual_reasoning/experiment_1/ablations/oneshot/images/k5/249.png
+249,6,1.224,heartbreak,romantic abandonment scene,failed love | ocean and desert,1,2,0.167,generation_failed,visual_reasoning/experiment_1/ablations/oneshot/images/k6/249.png

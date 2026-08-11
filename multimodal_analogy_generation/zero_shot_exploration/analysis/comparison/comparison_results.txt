@@ -1,0 +1,50 @@
+Pullback score comparison across conditions (threshold 0.40, ids 1..125, paired Q1)
+
+Per-condition descriptive statistics
+============================================================================================
+condition                 n    >0    %>0   median     mean       sd    min    max
+--------------------------------------------------------------------------------------------
+human                   113   107  94.7%    2.059    2.359    1.347   0.00   7.08
+flux-klein-zero         113    95  84.1%    1.919    2.077    1.492   0.00  10.00
+flux-klein-cot          113    98  86.7%    2.054    2.198    1.449   0.00   8.38
+stable-core-zero        113    87  77.0%    1.778    1.843    1.515   0.00   8.00
+stable-core-cot         113   101  89.4%    1.931    2.225    1.426   0.00   6.38
+gpt-image-zero          113   106  93.8%    1.906    2.179    1.185   0.00   5.52
+gpt-image-cot           113   105  92.9%    2.212    2.460    1.475   0.00   8.24
+
+Q1 — AI vs human (paired)
+============================================================================================
+n = 113 metaphors, paired across all 7 conditions
+
+Omnibus: Friedman test across all 7 conditions
+--------------------------------------------------------------------------------------------
+chi-squared = 11.812    df = 6    p = 0.0663
+  (tests whether the scores from at least one condition rank differently from
+   the others, controlling for per-metaphor variation)
+
+Per AI condition vs human (Wilcoxon signed-rank, paired on id)
+--------------------------------------------------------------------------------------------
+Bonferroni correction within this family of 6 tests.
+
+condition               Δmedian          W          p     p_bonf     r_rb              wins
+flux-klein-zero          -0.144     2586.0    0.09335     0.5601   -0.183    ai/h/tie 52/60/1
+flux-klein-cot           -0.151     2910.5     0.3745          1   -0.096    ai/h/tie 54/59/0
+stable-core-zero         -0.507     2274.0   0.006696    0.04018   -0.294    ai/h/tie 47/66/0
+stable-core-cot          -0.169     3007.5     0.5417          1   -0.066    ai/h/tie 53/60/0
+gpt-image-zero           -0.034     2853.5     0.2931          1   -0.114    ai/h/tie 55/58/0
+gpt-image-cot            -0.043     3104.5     0.7396          1   +0.036    ai/h/tie 56/57/0
+  (positive Δmedian / r_rb => AI scores higher than human)
+
+Q2 — Which generator
+============================================================================================
+flux-klein     n = 226    median = 1.995    mean = 2.137
+stable-core    n = 226    median = 1.866    mean = 2.034
+gpt-image      n = 226    median = 2.078    mean = 2.320
+
+Kruskal-Wallis H = 5.614    p = 0.06037
+
+Pairwise Mann-Whitney U (Bonferroni-corrected, family size = 3)
+--------------------------------------------------------------------------------------------
+flux-klein   vs stable-core    U =   27158.0    p = 0.2426    p_bonf = 0.7277    r = -0.063
+flux-klein   vs gpt-image      U =   23964.5    p = 0.257    p_bonf = 0.771    r = +0.062
+stable-core  vs gpt-image      U =   22206.5    p = 0.01636    p_bonf = 0.04908    r = +0.130

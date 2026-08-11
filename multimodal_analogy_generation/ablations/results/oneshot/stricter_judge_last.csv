@@ -1,0 +1,21 @@
+id,metaphor,mean_judge_score,judge_metaphor_consistency,judge_analogy_appropriateness,judge_conceptual_integration,judge_model_claude-opus-4-8,judge_model_gpt-5.2,metaphor_consistency__claude-opus-4-8,metaphor_consistency__gpt-5.2,analogy_appropriateness__claude-opus-4-8,analogy_appropriateness__gpt-5.2,conceptual_integration__claude-opus-4-8,conceptual_integration__gpt-5.2
+015,Genetically modified food is a hidden predator on your plate.,8.333,8.500,8.500,8.000,8.000,8.667,8.000,9.000,8.000,9.000,8.000,8.000
+026,Coffee switches you on like a lightswitch.,8.500,9.000,8.500,8.000,8.667,8.333,9.000,9.000,9.000,8.000,8.000,8.000
+035,Dove cream is a flower.,6.833,5.500,7.000,8.000,7.333,6.333,6.000,5.000,8.000,6.000,8.000,8.000
+045,A sweet tooth is a predator chasing down your smile.,6.833,5.500,6.500,8.500,7.000,6.667,6.000,5.000,7.000,6.000,8.000,9.000
+048,Strong hair gel has the grip of a lizard's feet.,6.167,6.000,6.000,6.500,6.333,6.000,6.000,6.000,6.000,6.000,7.000,6.000
+062,Your smile is a row of bright lightbulbs.,7.167,7.000,7.500,7.000,7.000,7.333,7.000,7.000,7.000,8.000,7.000,7.000
+088,Words can be deadly.,8.833,8.500,9.000,9.000,8.667,9.000,8.000,9.000,9.000,9.000,9.000,9.000
+089,Your phone is a mouse trap.,8.167,8.500,8.000,8.000,8.000,8.333,8.000,9.000,8.000,8.000,8.000,8.000
+098,A work boot is a heavy-duty bulldozer.,6.167,5.500,6.500,6.500,6.667,5.667,7.000,4.000,7.000,6.000,6.000,7.000
+122,Failing to social distance is an explosion waiting to happen.,7.333,7.000,7.000,8.000,7.333,7.333,7.000,7.000,7.000,7.000,8.000,8.000
+125,The canvas sails of a galleon ship are a swarm of vibrant butterflies.,8.667,8.500,8.500,9.000,8.333,9.000,8.000,9.000,8.000,9.000,9.000,9.000
+133,The burger is a flame of flavour,7.000,6.500,6.500,8.000,6.333,7.667,5.000,8.000,6.000,7.000,8.000,8.000
+153,My love is a summer day.,7.000,6.500,6.000,8.500,6.333,7.667,6.000,7.000,5.000,7.000,8.000,9.000
+162,Anger is a demon that preys on the soul.,8.333,8.000,8.000,9.000,8.333,8.333,8.000,8.000,8.000,8.000,9.000,9.000
+164,Autumn is a depression,7.500,7.500,6.500,8.500,7.333,7.667,7.000,8.000,6.000,7.000,9.000,8.000
+176,"Her hair is a rippling, tossing sea",8.667,8.500,8.500,9.000,8.333,9.000,8.000,9.000,8.000,9.000,9.000,9.000
+177,Her hair is like the curling mist,8.500,9.000,8.000,8.500,8.667,8.333,9.000,9.000,8.000,8.000,9.000,8.000
+198,My soul is a bird with broken wings.,6.250,5.000,6.000,7.750,5.667,6.833,5.000,5.000,5.000,7.000,7.000,8.500
+230,The professor was a guiding light for him.,8.667,8.500,8.500,9.000,8.333,9.000,8.000,9.000,8.000,9.000,9.000,9.000
+249,He wanted to set sail on the ocean of love but instead wasted away in the desert.,7.000,6.500,7.000,7.500,6.333,7.667,6.000,7.000,6.000,8.000,7.000,8.000
